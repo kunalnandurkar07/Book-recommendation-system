@@ -1,0 +1,177 @@
+         user_id,Book-Author,Book-Title,Image-URL-M
+1,Eric Matthes,Python Crash Course,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg
+2,Paul Barry,"Head-First Python, 2nd edition",https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg
+3,Al Sweigart,"Invent Your Own Computer Games with Python, 4th edition",https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg
+4,Allen B. Downey,"Think Python: How to Think Like a Computer Scientist, 2nd edition",https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg
+5,"Anthony Scopatz, Kathryn D. Huff",Effective Computation in Physics: Field Guide to Research with Python,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg
+6,Zed A. Shaw,Learn Python 3 the Hard Way,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg
+7,Jason R. Briggs,Python for Kids: A Playful Introduction to Programming,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg
+8,Bryson Payne,Teach Your Kids to Code: A Parent-Friendly Guide to Python Programming,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg
+9,Dan Bader,Python Tricks: A Buffet of Awesome Python Features,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg
+10,Luciano Ramalho,"Fluent Python: Clear, Concise, and Effective Programming",https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg
+11,Brett Slatkin,Effective Python: 59 Ways to Write Better Python,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg
+12,David Beazley & Brian K. Jones,Python Cookbook,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg
+13,Stanley Lippman,C++ Primer 5th Edition,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg"
+14,Kyle Loudon,C++ Pocket Reference 1st Edition,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg"
+15,Siddhartha Rao," C++ in One Hour a Day, Sams Teach Yourself 8th Edition","https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg"
+16,Jeffrey M. Cogswell,C++ All-in-One For Dummies 3rd Edition,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg"
+17,Herbert Schildt ,C++: The Complete Reference Fourth Edition,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg"
+18,Tony Gaddis ,Starting Out with C++ from Control Structures to Objects plus,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg"
+19,Stroustrup Bjarne,A Tour of C++ (C++ In-Depth Series) 1st Edition,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg
+20,Scott Meyers,Effective Modern C++,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg"
+21,Nicolai Josuttis,"C++ Standard Library, The: A Tutorial And Reference 2Nd Edition","https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg"
+22,Mike Hendrickson,Accelerated C++: Practical Programming by Example 1st Edition,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg"
+23,Scott Meyers,More Effective C++,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg
+24,Robert Lafore,Object-Oriented Programming In C++ 4th Edition,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg"
+25,D. S. Malik,C++ Programming: From Problem Analysis to Program Design 3rd Edition,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg"
+26,Nathan Clark ,C++: A Detailed Approach to Practical Coding,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg
+27,Jacek Galowicz ,C++17 STL Cookbook,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg
+28,Hadley Wickham,"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data","https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg"
+29,Tilman M. Davies,The Book of R: A First Course in Programming and Statistics,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg"
+30,Andrie de Vries,R For Dummies,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg"
+31,Andy Field,Discovering Statistics Using R,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg"
+32,Norman Matloff,The Art of R Programming: A Tour of Statistical Software Design,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg"
+33,Jared P. Lander, R for Everyone: Advanced Analytics and Graphics,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg"
+34,Brett Lantz,"Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition","https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg"
+35,Jd Long,"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics","https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg"
+36,Dr. Rob Kabacoff,R in Action: Data Analysis and Graphics with R,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg"
+37,Hadley Wickham,Advanced R (Chapman & Hall/CRC The R Series),"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg"
+38,Garrett Grolemund,Hands-On Programming with R: Write Your Own Functions And Simulations,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg"
+39,Hadley Wickham,R Packages,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg"
+40,Richard Cotton,Learning R,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg"
+41,Julia Silge,Text Mining with R: A Tidy Approach,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg"
+42,Joseph Adler,R in a Nutshell,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg"
+43,John Chambers,Software for Data Analysis: Programming with R (Statistics and Computing),"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg"
+44,Nina Zumel,Practical Data Science with R,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg"
+45,Jon Duckett,HTML and CSS: Design and Build Websites,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg
+46,Elisabeth Robson & Eric Freeman,Head First HTML and CSS: A Learnerís Guide to Creating Standards-Based Web Pages,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg
+47,Markus Zusak, A Smarter Way to Learn HTML & CSS: Learn it faster. Remember it longer,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg
+48,Young Rewired State,"Get Coding!: Learn HTML, CSS & JavaScript & Build a Website, App & Game",https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg
+49,Jennifer Robins," Learning Web Design: A Beginnerís Guide to HTML, CSS, JavaScript, and Web Graphics",https://images.gr-assets.com/books/1361039440s/49041.jpg
+50,Shel Silverstein,Where the Sidewalk Ends,https://images.gr-assets.com/books/1168052448s/30119.jpg
+51,Cassandra Clare,"City of Bones (The Mortal Instruments, #1)",https://images.gr-assets.com/books/1432730315s/256683.jpg
+52,Stephenie Meyer,"Eclipse (Twilight, #3)",https://images.gr-assets.com/books/1361038355s/428263.jpg
+53,Christopher Paolini,"Eragon (The Inheritance Cycle, #1)",https://images.gr-assets.com/books/1366212852s/113436.jpg
+54,Douglas Adams,"The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",https://images.gr-assets.com/books/1327656754s/11.jpg
+55,Aldous Huxley,Brave New World,https://images.gr-assets.com/books/1487389574s/5129.jpg
+56,Stephenie Meyer,"Breaking Dawn (Twilight, #4)",https://images.gr-assets.com/books/1361039438s/1162543.jpg
+57,Sue Monk Kidd,The Secret Life of Bees,https://images.gr-assets.com/books/1473454532s/37435.jpg
+58,"Mark Twain, John Seelye, Guy Cardwell",The Adventures of Huckleberry Finn,https://images.gr-assets.com/books/1405973850s/2956.jpg
+59,"E.B. White, Garth Williams, Rosemary Wells",Charlotte's Web,https://images.gr-assets.com/books/1439632243s/24178.jpg
+60,Mark Haddon,The Curious Incident of the Dog in the Night-Time,https://images.gr-assets.com/books/1479863624s/1618.jpg
+61,Paula Hawkins,The Girl on the Train,https://images.gr-assets.com/books/1490903702s/22557272.jpg
+62,Philip Pullman,"The Golden Compass (His Dark Materials, #1)",https://images.gr-assets.com/books/1451271747s/119322.jpg
+63,"Emily Bront√´, Richard J. Dunn",Wuthering Heights,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+64,Jodi Picoult,My Sister's Keeper,https://images.gr-assets.com/books/1369504683s/10917.jpg
+65,Kurt Vonnegut Jr.,Slaughterhouse-Five,https://images.gr-assets.com/books/1440319389s/4981.jpg
+66,Margaret Mitchell,Gone with the Wind,https://images.gr-assets.com/books/1328025229s/18405.jpg
+67,Khaled Hosseini,A Thousand Splendid Suns,https://images.gr-assets.com/books/1345958969s/128029.jpg
+68,Stephen Chbosky,The Perks of Being a Wallflower,https://images.gr-assets.com/books/1167352178s/22628.jpg
+69,Veronica Roth,"Insurgent (Divergent, #2)",https://images.gr-assets.com/books/1325667729s/11735983.jpg
+70,Orson Scott Card,"Ender's Game (Ender's Saga, #1)",https://images.gr-assets.com/books/1408303130s/375802.jpg
+71,"Mary Wollstonecraft Shelley, Percy Bysshe Shelley, Maurice Hindle",Frankenstein,https://images.gr-assets.com/books/1381512375s/18490.jpg
+72,Stephen King,The Shining (The Shining #1),https://images.gr-assets.com/books/1353277730s/11588.jpg
+73,Stephenie Meyer,"The Host (The Host, #1)",https://images.gr-assets.com/books/1318009171s/1656001.jpg
+74,John Green,Looking for Alaska,https://images.gr-assets.com/books/1394798630s/99561.jpg
+75,Helen Fielding,"Bridget Jones's Diary (Bridget Jones, #1)",https://images.gr-assets.com/books/1292060045s/227443.jpg
+76,"Jane Austen, Tony Tanner, Ros Ballaster",Sense and Sensibility,https://images.gr-assets.com/books/1397245675s/14935.jpg
+77,"Louis Sachar, Louis Sachar","Holes (Holes, #1)",https://images.gr-assets.com/books/1327781893s/38709.jpg
+78,Lauren Weisberger,"The Devil Wears Prada (The Devil Wears Prada, #1)",https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+79,"Homer, Robert Fagles, E.V. Rieu, Fr√©d√©ric Mugler, Bernard Knox",The Odyssey,https://images.gr-assets.com/books/1390173285s/1381.jpg
+80,"Antoine de Saint-Exup√©ry, Richard Howard, Dom Marcos Barbosa, Melina Karakosta",The Little Prince,https://images.gr-assets.com/books/1367545443s/157993.jpg
+81,Jeannette Walls,The Glass Castle,https://images.gr-assets.com/books/1400930557s/7445.jpg
+82,Jon Krakauer,Into the Wild,https://images.gr-assets.com/books/1403173986s/1845.jpg
+83,"Charles Dickens, Richard Maxwell, Hablot Knight Browne",A Tale of Two Cities,https://images.gr-assets.com/books/1344922523s/1953.jpg
+84,Michael Crichton,"Jurassic Park (Jurassic Park, #1)",https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+85,Shel Silverstein,The Giving Tree,https://images.gr-assets.com/books/1174210942s/370493.jpg
+86,John Grisham,A Time to Kill,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+87,"Elie Wiesel, Marion Wiesel",Night (The Night Trilogy #1),https://images.gr-assets.com/books/1473495285s/1617.jpg
+88,John Green,Paper Towns,https://images.gr-assets.com/books/1349013610s/6442769.jpg
+89,William Goldman,The Princess Bride ,https://images.gr-assets.com/books/1327903636s/21787.jpg
+90,S.E. Hinton,The Outsiders,https://images.gr-assets.com/books/1442129426s/231804.jpg
+91,James Dashner,"The Maze Runner (Maze Runner, #1)",https://images.gr-assets.com/books/1375596592s/6186357.jpg
+92,"Steven D. Levitt, Stephen J. Dubner","Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)",https://images.gr-assets.com/books/1327909092s/1202.jpg
+93,Frances Hodgson Burnett,The Secret Garden,https://images.gr-assets.com/books/1327873635s/2998.jpg
+94,"Gabriel Garc√≠a M√°rquez, Gregory Rabassa",One Hundred Years of Solitude,https://images.gr-assets.com/books/1327881361s/320.jpg
+95,"Oscar Wilde, Jeffrey Eugenides",The Picture of Dorian Gray,https://images.gr-assets.com/books/1424596966s/5297.jpg
+96,E.L. James,"Fifty Shades Freed (Fifty Shades, #3)",https://images.gr-assets.com/books/1336418837s/13536860.jpg
+97,"Bram Stoker, Nina Auerbach, David J. Skal",Dracula,https://images.gr-assets.com/books/1387151694s/17245.jpg
+98,"Stieg Larsson, Reg Keeland","The Girl Who Played with Fire (Millennium, #2)",https://images.gr-assets.com/books/1351778881s/5060378.jpg
+99,E.L. James,"Fifty Shades Darker (Fifty Shades, #2)",https://images.gr-assets.com/books/1358266080s/11857408.jpg
+100,Kathy Sierra & Bert Bates,Head First Java ,
+101,Herbert Schildt,Java: A Beginnerís Guide,
+102,Barry A. Burd,Java for Dummies ,
+103,Joshua Bloch, Effective Java ,
+104,Eric Freeman,Java Head First Design Patterns ,
+105,Craig Walls and Ryan Breidenbach,Java Spring in Action ,
+106,Robert C. Martin,Java Clean Code ,
+107,Lasse Koskela,Test Driven: TDD and Acceptance TDD for Java Developers ,
+108, Alex Garcia and Viktor Farcic,Test-Driven Java Development,
+109, Bruce Eckel,Thinking in Java ,
+110,"Cay S. Horstmann and Gary Cornell
+",Core Java,
+111,"Herbert Schildt
+",Java: The Complete Reference,
+112,Kyle Simpson, You Donít Know JS,
+113,David Herman,Effective JavaScript,
+114,Marijn Haverbeke,Eloquent JavaScript,
+115,Mark Myers, A Smarter Way to Learn JavaScript,
+116,Douglas Crockford, JavaScript: The Good Parts,
+117,David Flanagan, JavaScript: The Definitive Guide,
+118,Jon Duckett,JavaScript and jQuery: Interactive Front-End Web Development,
+119,"Douglas Crockford
+",JavaScript: The Good Parts,
+120,Marijn Haverbeke,"Eloquent JavaScript, 3rd Edition: A Modern ",
+121,Book by Bear Bibeault,Secrets of the JavaScript Ninja,
+122,Reginald Braithwaite,JavaScript AllongÈ: A strong cup of function,
+123,by Elizabeth Robson ,Head First HTML and CSS,
+124,David DuRocher,HTML and CSS Quickstart Guide,
+125,Young Rewired State," Get Coding!: Learn HTML, CSS & JavaScript & Build a Website, App & Game",
+126,Jennifer Robbins,"Learning Web Design: A Beginnerís Guide to HTML, CSS, JavaScript, and Web Graphics",
+127,Jon Duckett, HTML and CSS: Design and Build Websites,
+128,Meloni and Kyrinís ,"HTML, CSS, and JavaScript All in One",
+129,Ben Frain,Responsive Web Design with HTML5 and CSS,
+130,DT Editorial Services,"HTML 5 Black Book (Covers CSS3, JavaScript, XML, XHTML, AJAX, PHP, jQuery)",
+131,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,
+132,Eric A,CSS Pocket Reference,
+133,Jennifer Kyrnin ,"HTML, CSS, and JavaScript All in One: Cover",
+134, Andy Harris,HTML5 and CSS3 All-in-One For Dummies,
+135,Keith Grant,CSS in Depth,
+136,Greg Sidelnikov,CSS Visual Dictionary,
+137,Peter Gasston,The Book of CSS3: A Developer's Guide to t,
+138,Bruce Hyslop ,HTML and CSS: Visual Quickstart Guide,
+139,Courage Kamusoko,Optical and SAR Remote Sensing of Urban Areas,
+140,Viral Thakar,Deep Learning with Python and OpenCV,
+141,Andreas Maier,Medical Imaging Systems,
+142,Ayman El-Baz,Neurological Disorders and Imaging Physics,
+143,Arshad Iqbal,Digital Image Processing MCQs,
+144,John Jensen,Introductory Digital Image Processing,
+145,Saiful-Islam Saif,"Aerial Photography, Photogeology, GIS, R.S. And Image Processing",
+146,Robert Gendler,"Lessons from the Masters
+Current Concepts in Astronomical Image Processing",
+147,Cleve B. Moler,Numerical Computing with MATLAB,
+148,Robert LaganiËre,OpenCV 2 Computer Vision Application Programming Cookbook,
+149,Reinhard Klette,Handbook of Image Processing Operators,
+150,Ying Bai,"SQL Server Database Programming with Java
+Concepts, Designs and Implementations",
+151,Christian Nagel,Professional C# and .NET,
+152,Sufyan bin Uzayr,"Optimizing Visual Studio Code for Python Development
+Developing More Efficient and Effective Programs in Python",
+153,April Speight,Visual Studio Code for Python Programmers,
+154,Alessandro Del Sole,Visual Studio Code Distilled,
+155,Alvin Ashcraft,Learn WinUI 3.0,
+156,Andrew Stellman,Head First C#,
+157,Muzec Adem,How to Write Better C# Code,
+158,Engr. Michael David,.NET Programming for Beginners,
+159,Mark J. Price,C# 9 and .NET 5 ñ Modern Cross-Platform Development,
+160,Robin Nixon,"Learning PHP, MySQL & JavaScript",
+161,Lynn Beighley,Headfirst PHP & MySQL,
+162,Alan Forbes,The Joy of PHP,
+163,Larry Ullman,PHP for the Web: Visual QuickStart Guide,
+164,Luke Welling, PHP and MySQL Web Development (Developerís Library),
+165,Mike McGrath,†PHP & MySQL,
+166,Ullman,PHP and MySQL for Dynamic Web Sites,
+167,Josh Lockhart,Modern PHP: New Features and Good Practices,
+168,Steven Holzner†,PHP: The Complete Reference,
+169,Ullman PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide,The Last Song,
+170,Mike Murach,Murachís PHP and MySQL (Murach: Training & Reference),

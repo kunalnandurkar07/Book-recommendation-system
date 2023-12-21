@@ -1,0 +1,13 @@
+,title,rating,author,genre
+0, A Smarter Way to Learn JavaScript,42,Mark Myers,Java
+6, Effective Java ,36,Joshua Bloch,Java
+12,Test-Driven Java Development,24, Alex Garcia and Viktor Farcic,Java
+18, You Dont Know JS,18,Kyle Simpson,Java
+24,Java Clean Code ,12,Robert C. Martin,Java
+30,JavaScript: The Good Parts,12,"Douglas Crockford
+",Java
+36,Secrets of the JavaScript Ninja,12,Book by Bear Bibeault,Java
+42,Test Driven TDD and Acceptance TDD for Java Developers ,12,Lasse Koskela,Java
+48,Core Java,6,"Cay S. Horstmann and Gary Cornell
+",Java
+54,Thinking in Java ,6, Bruce Eckel,Java

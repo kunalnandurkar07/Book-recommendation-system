@@ -1,0 +1,1063 @@
+user_id,author,title,genre,rating,url,ISBN
+1,Eric Matthes,Python Crash Course,Python,10,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,195153448
+2,Paul Barry,Head-First Python 2nd edition,Python,9,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,2005018
+3,Al Sweigart,Invent Your Own Computer Games with Python,Python,6,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,60973129
+4,Allen B. Downey,Think Python: How to Think Like a Computer Scientist,Python,10,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,374157065
+5,"Anthony Scopatz, Kathryn D. Huff",Effective Computation in Physics,Python,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,393045218
+6,Zed A. Shaw,Learn Python 3 the Hard Way,Python,9,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,399135782
+7,Jason R. Briggs,Python for Kids,Python,0,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,425176428
+8,Bryson Payne,Teach Your Kids to Code,Python,0,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,671870432
+9,Dan Bader,Python Tricks,Python,0,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,679425608
+10,Luciano Ramalho,Fluent Python,Python,0,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,074322678X
+11,Brett Slatkin,Effective Python,Python,0,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,771074670
+12,David Beazley & Brian K. Jones,Python Cookbook,Python,10,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,080652121X
+13,Stanley Lippman,C++ Primer 5th Edition,C++,7,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",887841740
+14,Kyle Loudon,C++ Pocket Reference 1st Edition,C++,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",1552041778
+15,Siddhartha Rao," C++ in One Hour a Day, Sams Teach Yourself 8th Edition",C++,0,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",1558746218
+16,Jeffrey M. Cogswell,C++ All-in-One For Dummies 3rd Edition,C++,0,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",1567407781
+17,Herbert Schildt ,C++: The Complete Reference Fourth Edition,C++,10,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",1575663937
+18,Tony Gaddis ,Starting Out with C++ from Control Structures to Objects plus,C++,0,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",1881320189
+19,Stroustrup Bjarne,A Tour of C++ (C++ In-Depth Series) 1st Edition,C++,0,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,440234743
+20,Scott Meyers,Effective Modern C++,C++,6,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",452264464
+21,Nicolai Josuttis,"C++ Standard Library, The: A Tutorial And Reference 2Nd Edition",C++,0,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",609804618
+22,Mike Hendrickson,Accelerated C++: Practical Programming by Example 1st Edition,C++,7,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",1841721522
+23,Scott Meyers,More Effective C++,C++,0,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,1879384493
+24,Robert Lafore,Object-Oriented Programming In C++ 4th Edition,C++,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",61076031
+25,D. S. Malik,C++ Programming: From Problem Analysis to Program Design 3rd Edition,C++,0,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",439095026
+26,Nathan Clark ,C++: A Detailed Approach to Practical Coding,C++,7,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,689821166
+27,Jacek Galowicz ,C++17 STL Cookbook,C++,0,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,971880107
+28,Hadley Wickham,"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",R,6,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",345402871
+29,Tilman M. Davies,The Book of R: A First Course in Programming and Statistics,R,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",345417623
+30,Andrie de Vries,R For Dummies,R,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",684823802
+31,Andy Field,Discovering Statistics Using R,R,5,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",375759778
+32,Norman Matloff,The Art of R Programming: A Tour of Statistical Software Design,R,0,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",425163091
+33,Jared P. Lander, R for Everyone: Advanced Analytics and Graphics,R,0,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",3404921038
+34,Brett Lantz,"Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",R,0,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",3442353866
+35,Jd Long,"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics",R,8,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",3442410665
+36,Dr. Rob Kabacoff,R in Action: Data Analysis and Graphics with R,R,0,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",3442446937
+37,Hadley Wickham,Advanced R (Chapman & Hall CRC The R Series),R,0,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",375406328
+38,Garrett Grolemund,Hands-On Programming with R,R,8,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",446310786
+39,Hadley Wickham,R Packages,R,0,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",449005615
+40,Richard Cotton,Learning R,R,0,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",60168013
+41,Julia Silge,Text Mining with R: A Tidy Approach,R,8,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",038078243X
+42,Joseph Adler,R in a Nutshell,R,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",055321215X
+43,John Chambers,Software for Data Analysis: Programming with R,R,0,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",067176537X
+44,Nina Zumel,Practical Data Science with R,R,0,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",61099686
+45,Jon Duckett,HTML and CSS: Design and Build Websites,HTML,7,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,553582909
+46,Elisabeth Robson & Eric Freeman,Head First HTML and CSS,HTML,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,671888587
+47,Markus Zusak, A Smarter Way to Learn HTML & CSS: Learn it faster,HTML,5,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,553582747
+48,Young Rewired State,"Get Coding: Learn HTML, CSS & JavaScript",HTML,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,425182908
+49,Jennifer Robins, Learning Web Design,HTML,0,https://images.gr-assets.com/books/1361039440s/49041.jpg,042518630X
+50,Julie C. Meloni and Jennifer Kyrin," HTML, CSS, and JavaScript All in One",HTML,0,https://images.gr-assets.com/books/1168052448s/30119.jpg,440223571
+51,Elizabeth Castro and Bruce Hyslop, HTML and CSS: Visual QuickStart Guide,HTML,10,https://images.gr-assets.com/books/1432730315s/256683.jpg,812523873
+52,David Durocher, HTML and CSS QuickStart Guide,HTML,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,842342702
+53,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,https://images.gr-assets.com/books/1366212852s/113436.jpg,440225701
+54,Eric A. Meyer, CSS Pocket Reference,HTML,0,https://images.gr-assets.com/books/1327656754s/11.jpg,60914068
+55,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://images.gr-assets.com/books/1487389574s/5129.jpg,156047624
+56,Mark J. Price,C# 8 and NET Core 3,C,0,https://images.gr-assets.com/books/1361039438s/1162543.jpg,245542957
+57,LCF Publishing,C#: Learn C# in One Day and Learn It Well,C,0,https://images.gr-assets.com/books/1473454532s/37435.jpg,380715899
+58,Andrew Stellman,Head First C#,C,0,https://images.gr-assets.com/books/1405973850s/2956.jpg,553280333
+59,Jospeh Albahari ,C# 8.0 Pocket Reference,C,0,https://images.gr-assets.com/books/1439632243s/24178.jpg,961769947
+60,Anne & Murach Joel Boehm,Murach C# 2015,C,0,https://images.gr-assets.com/books/1479863624s/1618.jpg,964778319
+61,Jon Skeet,C# in Depth,C,7,https://images.gr-assets.com/books/1490903702s/22557272.jpg,671623249
+62,R B Whitaker,The C# Players Guide,C,9,https://images.gr-assets.com/books/1451271747s/119322.jpg,679810307
+63,Harrison Ferrone ,Learning C# by Developing Games with Unity 2019,C,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,679865691
+64,Andrew Troelsen,Pro C# 7: With NET and NET Core,C,7,https://images.gr-assets.com/books/1369504683s/10917.jpg,2070423204
+65,Robert Martin ,"Agile Principles, Patterns, and Practices in C#",C,0,https://images.gr-assets.com/books/1440319389s/4981.jpg,345260317
+66,John Sharp ,Microsoft Visual C# Step by Step,C,7,https://images.gr-assets.com/books/1328025229s/18405.jpg,394743741
+67,Joseph Albahar,C# 7 in a Nutshell: The Definitive Reference,C,0,https://images.gr-assets.com/books/1345958969s/128029.jpg,042511774X
+68,Stephen Cleary,Concurrency in C# Cookbook,C,7,https://images.gr-assets.com/books/1167352178s/22628.jpg,804106304
+69,Bill Wagner,Effective C# (Covers C# 6.0),C,0,https://images.gr-assets.com/books/1325667729s/11735983.jpg,1853262404
+70,Ben Forta," SQL in 10 Minutes, Sams Teach Yourself",SQL,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,312970242
+71,Sylvia Moestl Vasilik,SQL Practice Problems,SQL,0,https://images.gr-assets.com/books/1381512375s/18490.jpg,1853260053
+72,Anthony Molinaro,SQL Cookbook ,SQL,0,https://images.gr-assets.com/books/1353277730s/11588.jpg,1414035004
+73,John Viescas,SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL,SQL,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,60938412
+74,Alan Beaulieu, Learning SQL: Master SQL Fundamentals,SQL,0,https://images.gr-assets.com/books/1394798630s/99561.jpg,140067477
+75,James Groff,SQL: The Complete Reference,SQL,0,https://images.gr-assets.com/books/1292060045s/227443.jpg,345465083
+76,Steven Feuerstein,Oracle PL/SQL Programming 6e,SQL,0,https://images.gr-assets.com/books/1397245675s/14935.jpg,451625889
+77,Jonathan Gennick,SQL Pocket Guide: A Guide to SQL Usage,SQL,0,https://images.gr-assets.com/books/1327781893s/38709.jpg,1558531025
+78,John Viescas,Effective SQL: 61 Specific Ways to Write Better SQL,SQL,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,441783589
+79,Bill Karwin,SQL Antipatterns: Avoiding the Pitfalls of Database Programming,SQL,7,https://images.gr-assets.com/books/1390173285s/1381.jpg,394895894
+80,Allen G. Taylor,SQL For Dummies (For Dummies (Computer/Tech)),SQL,0,https://images.gr-assets.com/books/1367545443s/157993.jpg,1569871213
+81,Chris Fehily, SQL Database Programming,SQL,0,https://images.gr-assets.com/books/1400930557s/7445.jpg,375410538
+82,Baron Schwartz,High-Performance MySQL,SQL,0,https://images.gr-assets.com/books/1403173986s/1845.jpg,966986105
+83,Stephane Faroult, The Art of SQL,SQL,0,https://images.gr-assets.com/books/1344922523s/1953.jpg,087113375X
+84,Michael Crichton,MySQL,SQL,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,340767936
+85,Ganofins,MySQL for Beginners,SQL,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,743403843
+86,John Grisham,Learn SQL With MySQL,SQL,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,60930365
+87,"Elie Wiesel, Marion Wiesel",The Definitive Guide to MySQL 5,SQL,0,https://images.gr-assets.com/books/1473495285s/1617.jpg,60177586
+88,John Green,MySQL MADE EASY,SQL,9,https://images.gr-assets.com/books/1349013610s/6442769.jpg,71416331
+89,William Goldman,High-Performance MySQL,SQL,0,https://images.gr-assets.com/books/1327903636s/21787.jpg,375509038
+90,S.E. Hinton,MySQL,SQL,4,https://images.gr-assets.com/books/1442129426s/231804.jpg,553062042
+91,James Dashner,The Database Application Book,SQL,0,https://images.gr-assets.com/books/1375596592s/6186357.jpg,316769487
+92,"Steven D. Levitt, Stephen J. Dubner",Learning MySQL,SQL,0,https://images.gr-assets.com/books/1327909092s/1202.jpg,8445071408
+93,Frances Hodgson Burnett,MySQL Admin Cookbook LITE,SQL,0,https://images.gr-assets.com/books/1327873635s/2998.jpg,8445071769
+94,"Luc Perkins, Eric Redmond, Jim Wilson",Seven Databases in Seven Weeks,SQL,0,https://images.gr-assets.com/books/1327881361s/320.jpg,8445071777
+95,"Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",MongoDB: The Definitive Guide,SQL,9,https://images.gr-assets.com/books/1424596966s/5297.jpg,679429220
+96,Steven Feuerstein,Oracle PLSQL Programming,SQL,8,https://images.gr-assets.com/books/1336418837s/13536860.jpg,671867156
+97,"Dan McCreary, Ann Kelly",Making Sense of NoSQL,SQL,0,https://images.gr-assets.com/books/1387151694s/17245.jpg,312252617
+98,Lynn Beighley,Head First SQL,SQL,0,https://images.gr-assets.com/books/1351778881s/5060378.jpg,312261594
+99,Michael J Hernandez,Database Design for Mere Mortals,Database,0,https://images.gr-assets.com/books/1358266080s/11857408.jpg,316748641
+100,Rod Stephens,Beginning Database Design Solutions,Database,0,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,316973742
+101,Herbert Schildt,Java: A Beginners Guide,Java,0,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,385235941
+102,Barry A. Burd,Java for Dummies ,Java,0,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,446677450
+103,Joshua Bloch, Effective Java ,Java,0,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,451166892
+104,Eric Freeman,Java Head First Design Patterns ,Java,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,553347594
+105,Craig Walls and Ryan Breidenbach,Java Spring in Action ,Java,0,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,671621009
+106,Robert C. Martin,Java Clean Code ,Java,0,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,067976397X
+107,Lasse Koskela,Test Driven TDD and Acceptance TDD for Java Developers ,Java,0,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,684822733
+108, Alex Garcia and Viktor Farcic,Test-Driven Java Development,Java,0,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,786868716
+109, Bruce Eckel,Thinking in Java ,Java,0,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,8472238822
+110,"Cay S. Horstmann and Gary Cornell
+",Core Java,Java,0,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,671864769
+111,"Herbert Schildt
+",Java: The Complete Reference,Java,0,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,671521519
+112,Kyle Simpson, You Dont Know JS,Java,0,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",440222303
+113,David Herman,Effective JavaScript,Java,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",312953453
+114,Marijn Haverbeke,Eloquent JavaScript,Java,0,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",446608653
+115,Mark Myers, A Smarter Way to Learn JavaScript,Java,10,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",446612545
+116,Douglas Crockford, JavaScript: The Good Parts,Java,9,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",446612618
+117,David Flanagan, JavaScript: The Definitive Guide,Java,0,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",451208080
+118,Jon Duckett,JavaScript and jQuery: Interactive Front-End Web Development,Java,0,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,553584383
+119,"Douglas Crockford
+",JavaScript: The Good Parts,Java,0,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",671027360
+120,Marijn Haverbeke,Eloquent JavaScript,Java,0,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",812575954
+121,Book by Bear Bibeault,Secrets of the JavaScript Ninja,Java,8,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",316735736
+122,Reginald Braithwaite,JavaScript Allong A strong cup of function,Java,0,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,743439740
+123,by Elizabeth Robson ,Head First HTML and CSS,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",345372700
+124,David DuRocher,HTML and CSS Quickstart Guide,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",380619458
+125,Young Rewired State,"Learn HTML, CSS & JavaScript",HTML,0,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,446325805
+126,Jennifer Robbins,Learning Web Design,HTML,0,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,451406923
+127,Jon Duckett, HTML and CSS Design and Build Websites,HTML,8,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",671042858
+128,Meloni and Kyrins ,"HTML, CSS, and JavaScript All in One",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",743249992
+129,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",840734530
+130,DT Editorial Services,HTML 5 Black Book ,HTML,10,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",425184226
+131,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",375500766
+132,Eric A,CSS Pocket Reference,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",9724119378
+133,Jennifer Kyrnin ,"HTML, CSS, and JavaScript All in One: Cover",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",451205197
+134, Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",60929790
+135,Keith Grant,CSS in Depth,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",60976845
+136,"Greg Sidelnikov
+",CSS Visual Dictionary,HTML,10,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",61099325
+137,Peter Gasston,The Book of CSS3: A Developers Guide to t,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",671004573
+138,Bruce Hyslop ,HTML and CSS: Visual Quickstart Guide,HTML,9,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",446601640
+139,Courage Kamusoko,Optical and SAR Remote Sensing of Urban Areas,Image processing,9,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",330484516
+140,Viral Thakar,Deep Learning with Python and OpenCV,Python,0,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",038572179X
+141,Andreas Maier,Medical Imaging Systems,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",393020371
+142,Ayman El-Baz,Neurological Disorders and Imaging Physics,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",1900850303
+143,Arshad Iqbal,Digital Image Processing MCQs,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",1903019699
+144,John Jensen,Introductory Digital Image Processing,Image processing,10,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,345425294
+145,Saiful-Islam Saif,"Aerial Photography, Photogeology, GIS, And Image Processing",Image processing,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,451410319
+146,Robert Gendler,"Lessons from the Masters
+Current Concepts in Astronomical Image Processing",Image processing,10,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,553583468
+147,Cleve B. Moler,Numerical Computing with MATLAB,Image processing,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,8420639133
+148,Robert Laganire,OpenCV 2 Computer Vision Application Programming Cookbook,Image processing,10,https://images.gr-assets.com/books/1361039440s/49041.jpg,8476409419
+149,Reinhard Klette,Handbook of Image Processing Operators,Image processing,0,https://images.gr-assets.com/books/1168052448s/30119.jpg,380778556
+150,Ying Bai,"SQL Server Database Programming with Java
+Concepts, Designs and Implementations",SQL,0,https://images.gr-assets.com/books/1432730315s/256683.jpg,451525221
+151,Christian Nagel,Professional Chash and NET,C net,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,2740230
+152,Sufyan bin Uzayr,"Optimizing Visual Studio Code for Python Development
+Developing More Efficient and Effective Programs in Python",Python,0,https://images.gr-assets.com/books/1366212852s/113436.jpg,385336772
+153,April Speight,Visual Studio Code for Python Programmers,Python,0,https://images.gr-assets.com/books/1327656754s/11.jpg,440949424
+154,Alessandro Del Sole,Visual Studio Code Distilled,C,0,https://images.gr-assets.com/books/1487389574s/5129.jpg,505524996
+155,Alvin Ashcraft,Learn WinUI 3,C,0,https://images.gr-assets.com/books/1361039438s/1162543.jpg,140252800
+156,Andrew Stellman,Head First C#,C,0,https://images.gr-assets.com/books/1473454532s/37435.jpg,451452755
+157,Muzec Adem,How to Write Better C# Code,C,0,https://images.gr-assets.com/books/1405973850s/2956.jpg,812575482
+158,Engr. Michael David,NET Programming for Beginners,C,0,https://images.gr-assets.com/books/1439632243s/24178.jpg,044651747X
+159,Mark J. Price,C# 9 and NET 5  Modern Cross-Platform Development,C,0,https://images.gr-assets.com/books/1479863624s/1618.jpg,60801263
+160,Robin Nixon,"Learning PHP, MySQL & JavaScript",SQL,0,https://images.gr-assets.com/books/1490903702s/22557272.jpg,61030147
+161,Lynn Beighley,Headfirst PHP & MySQL,SQL,0,https://images.gr-assets.com/books/1451271747s/119322.jpg,140250964
+162,Alan Forbes,The Joy of PHP,SQL,6,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,446527165
+163,Larry Ullman,PHP for the Web: Visual QuickStart Guide,SQL,0,https://images.gr-assets.com/books/1369504683s/10917.jpg,671461494
+164,Luke Welling, PHP and MySQL Web Development,SQL,0,https://images.gr-assets.com/books/1440319389s/4981.jpg,385337639
+165,shubham tiwari,MySQL,SQL,0,https://images.gr-assets.com/books/1328025229s/18405.jpg,039575514X
+166,Ullman,PHP and MySQL for Dynamic Web Sites,SQL,3,https://images.gr-assets.com/books/1345958969s/128029.jpg,451206673
+167,Josh Lockhart,Modern PHP: New Features and Good Practices,SQL,5,https://images.gr-assets.com/books/1167352178s/22628.jpg,330332775
+168,Stevenholz,PHP The Complete Reference,SQL,6,https://images.gr-assets.com/books/1325667729s/11735983.jpg,486284735
+169,Mike Murach,Ullman PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide,SQL,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,671021745
+170,Mike Murach,Murachs PHP and MySQL (Murach: Training & Reference),SQL,6,https://images.gr-assets.com/books/1381512375s/18490.jpg,671047612
+170,Eric Matthes,Python Crash Course,Python,10,https://images.gr-assets.com/books/1353277730s/11588.jpg,
+169,Paul Barry,Head-First Python 2nd edition,Python,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,
+168,Al Sweigart,Invent Your Own Computer Games with Python,Python,6,https://images.gr-assets.com/books/1394798630s/99561.jpg,
+167,Allen B. Downey,Think Python: How to Think Like a Computer Scientist,Python,10,https://images.gr-assets.com/books/1292060045s/227443.jpg,
+166,"Anthony Scopatz, Kathryn D. Huff",Effective Computation in Physics,Python,0,https://images.gr-assets.com/books/1397245675s/14935.jpg,
+165,Zed A. Shaw,Learn Python 3 the Hard Way,Python,0,https://images.gr-assets.com/books/1327781893s/38709.jpg,
+164,Jason R. Briggs,Python for Kids,Python,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+163,Bryson Payne,Teach Your Kids to Code,Python,0,https://images.gr-assets.com/books/1390173285s/1381.jpg,
+162,Dan Bader,Python Tricks,Python,0,https://images.gr-assets.com/books/1367545443s/157993.jpg,
+161,Luciano Ramalho,Fluent Python,Python,0,https://images.gr-assets.com/books/1400930557s/7445.jpg,
+160,Brett Slatkin,Effective Python,Python,10,https://images.gr-assets.com/books/1403173986s/1845.jpg,
+159,David Beazley & Brian K. Jones,Python Cookbook,Python,9,https://images.gr-assets.com/books/1344922523s/1953.jpg,
+158,Stanley Lippman,C++ Primer 5th Edition,C++,7,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+157,Kyle Loudon,C++ Pocket Reference 1st Edition,C++,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,
+156,Siddhartha Rao," C++ in One Hour a Day, Sams Teach Yourself 8th Edition",C++,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+155,Jeffrey M. Cogswell,C++ All-in-One For Dummies 3rd Edition,C++,0,https://images.gr-assets.com/books/1473495285s/1617.jpg,
+154,Herbert Schildt ,C++: The Complete Reference Fourth Edition,C++,10,https://images.gr-assets.com/books/1349013610s/6442769.jpg,
+153,Tony Gaddis ,Starting Out with C++ from Control Structures to Objects plus,C++,0,https://images.gr-assets.com/books/1327903636s/21787.jpg,
+152,Stroustrup Bjarne,A Tour of C++ (C++ In-Depth Series) 1st Edition,C++,0,https://images.gr-assets.com/books/1442129426s/231804.jpg,
+151,Scott Meyers,Effective Modern C++,C++,6,https://images.gr-assets.com/books/1375596592s/6186357.jpg,
+150,Nicolai Josuttis,"C++ Standard Library, The: A Tutorial And Reference 2Nd Edition",C++,0,https://images.gr-assets.com/books/1327909092s/1202.jpg,
+149,Mike Hendrickson,Accelerated C++: Practical Programming by Example 1st Edition,C++,7,https://images.gr-assets.com/books/1327873635s/2998.jpg,
+148,Scott Meyers,More Effective C++,C++,0,https://images.gr-assets.com/books/1327881361s/320.jpg,
+147,Robert Lafore,Object-Oriented Programming In C++ 4th Edition,C++,0,https://images.gr-assets.com/books/1424596966s/5297.jpg,
+146,D. S. Malik,C++ Programming: From Problem Analysis to Program Design 3rd Edition,C++,0,https://images.gr-assets.com/books/1336418837s/13536860.jpg,
+145,Nathan Clark ,C++: A Detailed Approach to Practical Coding,C++,7,https://images.gr-assets.com/books/1387151694s/17245.jpg,
+144,Jacek Galowicz ,C++17 STL Cookbook,C++,0,https://images.gr-assets.com/books/1351778881s/5060378.jpg,
+143,Hadley Wickham,"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",R,6,https://images.gr-assets.com/books/1358266080s/11857408.jpg,
+142,Tilman M. Davies,The Book of R: A First Course in Programming and Statistics,R,0,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,
+141,Andrie de Vries,R For Dummies,R,0,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,
+140,Andy Field,Discovering Statistics Using R,R,5,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,
+139,Norman Matloff,The Art of R Programming: A Tour of Statistical Software Design,R,0,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,
+138,Jared P. Lander, R for Everyone: Advanced Analytics and Graphics,R,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,
+137,Brett Lantz,"Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",R,5,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,
+136,Jd Long,"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics",R,8,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,
+135,Dr. Rob Kabacoff,R in Action: Data Analysis and Graphics with R,R,0,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,
+134,Hadley Wickham,Advanced R (Chapman & Hall CRC The R Series),R,0,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,
+133,Garrett Grolemund,Hands-On Programming with R,R,8,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,
+132,Hadley Wickham,R Packages,R,0,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,
+131,Richard Cotton,Learning R,R,0,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,
+130,Julia Silge,Text Mining with R: A Tidy Approach,R,8,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",
+129,Joseph Adler,R in a Nutshell,R,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",
+128,John Chambers,Software for Data Analysis: Programming with R,R,0,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",
+127,Nina Zumel,Practical Data Science with R,R,0,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",
+126,Jon Duckett,HTML and CSS: Design and Build Websites,HTML,7,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",
+125,Elisabeth Robson & Eric Freeman,Head First HTML and CSS,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",
+124,Markus Zusak, A Smarter Way to Learn HTML & CSS: Learn it faster,HTML,10,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,
+123,Young Rewired State,"Get Coding: Learn HTML, CSS & JavaScript",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",
+122,Jennifer Robins, Learning Web Design,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",
+121,Julie C. Meloni and Jennifer Kyrin," HTML, CSS, and JavaScript All in One",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",
+120,Elizabeth Castro and Bruce Hyslop, HTML and CSS: Visual QuickStart Guide,HTML,10,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,
+119,David Durocher, HTML and CSS QuickStart Guide,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",
+118,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,9,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",
+117,Eric A. Meyer, CSS Pocket Reference,HTML,0,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,
+116,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,
+115,Mark J. Price,C# 8 and NET Core 3,C,0,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",
+114,LCF Publishing,C#: Learn C# in One Day and Learn It Well,C,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",
+113,Andrew Stellman,Head First C#,C,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",
+112,Jospeh Albahari ,C# 8.0 Pocket Reference,C,0,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",
+111,Anne & Murach Joel Boehm,Murach C# 2015,C,0,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",
+110,Jon Skeet,C# in Depth,C,7,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",
+109,R B Whitaker,The C# Players Guide,C,9,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",
+108,Harrison Ferrone ,Learning C# by Developing Games with Unity 2019,C,0,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",
+107,Andrew Troelsen,Pro C# 7: With NET and NET Core,C,7,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",
+106,Robert Martin ,"Agile Principles, Patterns, and Practices in C#",C,0,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",
+105,John Sharp ,Microsoft Visual C# Step by Step,C,7,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",
+104,Joseph Albahar,C# 7 in a Nutshell: The Definitive Reference,C,0,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",
+103,Stephen Cleary,Concurrency in C# Cookbook,C,7,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",
+102,Bill Wagner,Effective C# (Covers C# 6.0),C,0,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",
+101,Ben Forta," SQL in 10 Minutes, Sams Teach Yourself",SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",
+100,Sylvia Moestl Vasilik,SQL Practice Problems,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",
+99,Anthony Molinaro,SQL Cookbook ,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",
+98,John Viescas,SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL,SQL,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,
+97,Alan Beaulieu, Learning SQL: Master SQL Fundamentals,SQL,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,
+96,James Groff,SQL: The Complete Reference,SQL,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,
+95,Steven Feuerstein,Oracle PL/SQL Programming 6e,SQL,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,
+94,Jonathan Gennick,SQL Pocket Guide: A Guide to SQL Usage,SQL,0,https://images.gr-assets.com/books/1361039440s/49041.jpg,
+93,John Viescas,Effective SQL: 61 Specific Ways to Write Better SQL,SQL,0,https://images.gr-assets.com/books/1168052448s/30119.jpg,
+92,Bill Karwin,SQL Antipatterns: Avoiding the Pitfalls of Database Programming,SQL,7,https://images.gr-assets.com/books/1432730315s/256683.jpg,
+91,Allen G. Taylor,SQL For Dummies (For Dummies (Computer/Tech)),SQL,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,
+90,Chris Fehily, SQL Database Programming,SQL,0,https://images.gr-assets.com/books/1366212852s/113436.jpg,
+89,Baron Schwartz,High-Performance MySQL,SQL,0,https://images.gr-assets.com/books/1327656754s/11.jpg,
+88,Stephane Faroult, The Art of SQL,SQL,0,https://images.gr-assets.com/books/1487389574s/5129.jpg,
+87,Michael Crichton,MySQL,SQL,0,https://images.gr-assets.com/books/1361039438s/1162543.jpg,
+86,Ganofins,MySQL for Beginners,SQL,0,https://images.gr-assets.com/books/1473454532s/37435.jpg,
+85,John Grisham,Learn SQL With MySQL,SQL,0,https://images.gr-assets.com/books/1405973850s/2956.jpg,
+84,"Elie Wiesel, Marion Wiesel",The Definitive Guide to MySQL 5,SQL,0,https://images.gr-assets.com/books/1439632243s/24178.jpg,
+83,John Green,MySQL MADE EASY,SQL,9,https://images.gr-assets.com/books/1479863624s/1618.jpg,
+82,William Goldman,High-Performance MySQL,SQL,0,https://images.gr-assets.com/books/1490903702s/22557272.jpg,
+81,S.E. Hinton,MySQL,SQL,4,https://images.gr-assets.com/books/1451271747s/119322.jpg,
+80,James Dashner,The Database Application Book,SQL,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+79,"Steven D. Levitt, Stephen J. Dubner",Learning MySQL,SQL,0,https://images.gr-assets.com/books/1369504683s/10917.jpg,
+78,Frances Hodgson Burnett,MySQL Admin Cookbook LITE,SQL,0,https://images.gr-assets.com/books/1440319389s/4981.jpg,
+77,"Luc Perkins, Eric Redmond, Jim Wilson",Seven Databases in Seven Weeks,SQL,0,https://images.gr-assets.com/books/1328025229s/18405.jpg,
+76,"Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",MongoDB: The Definitive Guide,SQL,9,https://images.gr-assets.com/books/1345958969s/128029.jpg,
+75,Steven Feuerstein,Oracle PLSQL Programming,SQL,8,https://images.gr-assets.com/books/1167352178s/22628.jpg,
+74,"Dan McCreary, Ann Kelly",Making Sense of NoSQL,SQL,0,https://images.gr-assets.com/books/1325667729s/11735983.jpg,
+73,Lynn Beighley,Head First SQL,SQL,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,
+72,Michael J Hernandez,Database Design for Mere Mortals,Database,0,https://images.gr-assets.com/books/1381512375s/18490.jpg,
+71,Rod Stephens,Beginning Database Design Solutions,Database,9,https://images.gr-assets.com/books/1353277730s/11588.jpg,
+70,Herbert Schildt,Java: A Beginners Guide,Java,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,
+69,Barry A. Burd,Java for Dummies ,Java,0,https://images.gr-assets.com/books/1394798630s/99561.jpg,
+68,Joshua Bloch, Effective Java ,Java,0,https://images.gr-assets.com/books/1292060045s/227443.jpg,
+67,Eric Freeman,Java Head First Design Patterns ,Java,0,https://images.gr-assets.com/books/1397245675s/14935.jpg,
+66,Craig Walls and Ryan Breidenbach,Java Spring in Action ,Java,0,https://images.gr-assets.com/books/1327781893s/38709.jpg,
+65,Robert C. Martin,Java Clean Code ,Java,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+64,Lasse Koskela,Test Driven TDD and Acceptance TDD for Java Developers ,Java,0,https://images.gr-assets.com/books/1390173285s/1381.jpg,
+63, Alex Garcia and Viktor Farcic,Test-Driven Java Development,Java,10,https://images.gr-assets.com/books/1367545443s/157993.jpg,
+62, Bruce Eckel,Thinking in Java ,Java,9,https://images.gr-assets.com/books/1400930557s/7445.jpg,
+61,"Cay S. Horstmann and Gary Cornell
+",Core Java,Java,10,https://images.gr-assets.com/books/1403173986s/1845.jpg,
+60,"Herbert Schildt
+",Java: The Complete Reference,Java,0,https://images.gr-assets.com/books/1344922523s/1953.jpg,
+59,Kyle Simpson, You Dont Know JS,Java,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+58,David Herman,Effective JavaScript,Java,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,
+57,Marijn Haverbeke,Eloquent JavaScript,Java,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+56,Mark Myers, A Smarter Way to Learn JavaScript,Java,0,https://images.gr-assets.com/books/1473495285s/1617.jpg,
+55,Douglas Crockford, JavaScript: The Good Parts,Java,0,https://images.gr-assets.com/books/1349013610s/6442769.jpg,
+54,David Flanagan, JavaScript: The Definitive Guide,Java,0,https://images.gr-assets.com/books/1327903636s/21787.jpg,
+53,Jon Duckett,JavaScript and jQuery: Interactive Front-End Web Development,Java,0,https://images.gr-assets.com/books/1442129426s/231804.jpg,
+52,"Douglas Crockford
+",JavaScript: The Good Parts,Java,0,https://images.gr-assets.com/books/1375596592s/6186357.jpg,
+51,Marijn Haverbeke,Eloquent JavaScript,Java,0,https://images.gr-assets.com/books/1327909092s/1202.jpg,
+50,Book by Bear Bibeault,Secrets of the JavaScript Ninja,Java,8,https://images.gr-assets.com/books/1327873635s/2998.jpg,
+49,Reginald Braithwaite,JavaScript Allong A strong cup of function,Java,0,https://images.gr-assets.com/books/1327881361s/320.jpg,
+48,by Elizabeth Robson ,Head First HTML and CSS,HTML,0,https://images.gr-assets.com/books/1424596966s/5297.jpg,
+47,David DuRocher,HTML and CSS Quickstart Guide,HTML,0,https://images.gr-assets.com/books/1336418837s/13536860.jpg,
+46,Young Rewired State,"Learn HTML, CSS & JavaScript",HTML,0,https://images.gr-assets.com/books/1387151694s/17245.jpg,
+45,Jennifer Robbins,Learning Web Design,HTML,0,https://images.gr-assets.com/books/1351778881s/5060378.jpg,
+44,Jon Duckett, HTML and CSS Design and Build Websites,HTML,8,https://images.gr-assets.com/books/1358266080s/11857408.jpg,
+43,Meloni and Kyrins ,"HTML, CSS, and JavaScript All in One",HTML,0,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,
+42,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,
+41,DT Editorial Services,HTML 5 Black Book ,HTML,9,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,
+40,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,
+39,Eric A,CSS Pocket Reference,HTML,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,
+38,Jennifer Kyrnin ,"HTML, CSS, and JavaScript All in One: Cover",HTML,0,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,
+37, Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,
+36,Keith Grant,CSS in Depth,HTML,0,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,
+35,"Greg Sidelnikov
+",CSS Visual Dictionary,HTML,0,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,
+34,Peter Gasston,The Book of CSS3: A Developers Guide to t,HTML,0,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,
+33,Bruce Hyslop ,HTML and CSS: Visual Quickstart Guide,HTML,9,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,
+32,Courage Kamusoko,Optical and SAR Remote Sensing of Urban Areas,Image processing,9,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,
+31,Viral Thakar,Deep Learning with Python and OpenCV,Python,0,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",
+30,Andreas Maier,Medical Imaging Systems,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",
+29,Ayman El-Baz,Neurological Disorders and Imaging Physics,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",
+28,Arshad Iqbal,Digital Image Processing MCQs,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",
+27,John Jensen,Introductory Digital Image Processing,Image processing,9,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",
+26,Saiful-Islam Saif,"Aerial Photography, Photogeology, GIS, And Image Processing",Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",
+25,Robert Gendler,"Lessons from the Masters
+Current Concepts in Astronomical Image Processing",Image processing,8,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,
+24,Cleve B. Moler,Numerical Computing with MATLAB,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",
+23,Robert Laganire,OpenCV 2 Computer Vision Application Programming Cookbook,Image processing,8,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",
+22,Reinhard Klette,Handbook of Image Processing Operators,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",
+21,Ying Bai,"SQL Server Database Programming with Java
+Concepts, Designs and Implementations",SQL,0,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,
+20,Christian Nagel,Professional Chash and NET,C++,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",
+19,Sufyan bin Uzayr,"Optimizing Visual Studio Code for Python Development
+Developing More Efficient and Effective Programs in Python",Python,0,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",
+18,April Speight,Visual Studio Code for Python Programmers,Python,0,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,
+17,Alessandro Del Sole,Visual Studio Code Distilled,C,0,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,
+16,Alvin Ashcraft,Learn WinUI 3,C,0,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",
+15,Andrew Stellman,Head First C#,C,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",
+14,Muzec Adem,How to Write Better C# Code,C,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",
+13,Engr. Michael David,NET Programming for Beginners,C,0,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",
+12,Mark J. Price,C# 9 and NET 5  Modern Cross-Platform Development,C,0,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",
+11,Robin Nixon,"Learning PHP, MySQL & JavaScript",SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",
+10,Lynn Beighley,Headfirst PHP & MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",
+9,Alan Forbes,The Joy of PHP,SQL,6,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",
+8,Larry Ullman,PHP for the Web: Visual QuickStart Guide,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",
+7,Luke Welling, PHP and MySQL Web Development,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",
+6,shubham tiwari,MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",
+5,Ullman,PHP and MySQL for Dynamic Web Sites,SQL,3,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",
+4,Josh Lockhart,Modern PHP: New Features and Good Practices,SQL,9,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",
+3,Stevenholz,PHP The Complete Reference,SQL,9,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",
+2,Mike Murach,Ullman PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",
+1,Mike Murach,Murachs PHP and MySQL (Murach: Training & Reference),SQL,6,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",
+169,Eric Matthes,Python Crash Course,Python,10,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",
+168,Paul Barry,Head-First Python 2nd edition,Python,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,
+167,Al Sweigart,Invent Your Own Computer Games with Python,Python,6,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,
+166,Allen B. Downey,Think Python: How to Think Like a Computer Scientist,Python,10,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,
+165,"Anthony Scopatz, Kathryn D. Huff",Effective Computation in Physics,Python,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,
+164,Zed A. Shaw,Learn Python 3 the Hard Way,Python,0,https://images.gr-assets.com/books/1361039440s/49041.jpg,
+163,Jason R. Briggs,Python for Kids,Python,0,https://images.gr-assets.com/books/1168052448s/30119.jpg,
+162,Bryson Payne,Teach Your Kids to Code,Python,0,https://images.gr-assets.com/books/1432730315s/256683.jpg,
+161,Dan Bader,Python Tricks,Python,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,
+160,Luciano Ramalho,Fluent Python,Python,0,https://images.gr-assets.com/books/1366212852s/113436.jpg,
+159,Brett Slatkin,Effective Python,Python,0,https://images.gr-assets.com/books/1327656754s/11.jpg,
+158,David Beazley & Brian K. Jones,Python Cookbook,Python,0,https://images.gr-assets.com/books/1487389574s/5129.jpg,
+157,Stanley Lippman,C++ Primer 5th Edition,C++,10,https://images.gr-assets.com/books/1361039438s/1162543.jpg,
+156,Kyle Loudon,C++ Pocket Reference 1st Edition,C++,10,https://images.gr-assets.com/books/1473454532s/37435.jpg,
+155,Siddhartha Rao," C++ in One Hour a Day, Sams Teach Yourself 8th Edition",C++,0,https://images.gr-assets.com/books/1405973850s/2956.jpg,
+154,Jeffrey M. Cogswell,C++ All-in-One For Dummies 3rd Edition,C++,0,https://images.gr-assets.com/books/1439632243s/24178.jpg,
+153,Herbert Schildt ,C++: The Complete Reference Fourth Edition,C++,10,https://images.gr-assets.com/books/1479863624s/1618.jpg,
+152,Tony Gaddis ,Starting Out with C++ from Control Structures to Objects plus,C++,0,https://images.gr-assets.com/books/1490903702s/22557272.jpg,
+151,Stroustrup Bjarne,A Tour of C++ (C++ In-Depth Series) 1st Edition,C++,0,https://images.gr-assets.com/books/1451271747s/119322.jpg,
+150,Scott Meyers,Effective Modern C++,C++,6,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+149,Nicolai Josuttis,"C++ Standard Library, The: A Tutorial And Reference 2Nd Edition",C++,0,https://images.gr-assets.com/books/1369504683s/10917.jpg,
+148,Mike Hendrickson,Accelerated C++: Practical Programming by Example 1st Edition,C++,7,https://images.gr-assets.com/books/1440319389s/4981.jpg,
+147,Scott Meyers,More Effective C++,C++,0,https://images.gr-assets.com/books/1328025229s/18405.jpg,
+146,Robert Lafore,Object-Oriented Programming In C++ 4th Edition,C++,0,https://images.gr-assets.com/books/1345958969s/128029.jpg,
+145,D. S. Malik,C++ Programming: From Problem Analysis to Program Design 3rd Edition,C++,0,https://images.gr-assets.com/books/1167352178s/22628.jpg,
+144,Nathan Clark ,C++: A Detailed Approach to Practical Coding,C++,7,https://images.gr-assets.com/books/1325667729s/11735983.jpg,
+143,Jacek Galowicz ,C++17 STL Cookbook,C++,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,
+142,Hadley Wickham,"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",R,6,https://images.gr-assets.com/books/1381512375s/18490.jpg,
+141,Tilman M. Davies,The Book of R: A First Course in Programming and Statistics,R,0,https://images.gr-assets.com/books/1353277730s/11588.jpg,
+140,Andrie de Vries,R For Dummies,R,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,
+139,Andy Field,Discovering Statistics Using R,R,5,https://images.gr-assets.com/books/1394798630s/99561.jpg,
+138,Norman Matloff,The Art of R Programming: A Tour of Statistical Software Design,R,0,https://images.gr-assets.com/books/1292060045s/227443.jpg,
+137,Jared P. Lander, R for Everyone: Advanced Analytics and Graphics,R,10,https://images.gr-assets.com/books/1397245675s/14935.jpg,
+136,Brett Lantz,"Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",R,0,https://images.gr-assets.com/books/1327781893s/38709.jpg,
+135,Jd Long,"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics",R,8,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+134,Dr. Rob Kabacoff,R in Action: Data Analysis and Graphics with R,R,0,https://images.gr-assets.com/books/1390173285s/1381.jpg,
+133,Hadley Wickham,Advanced R (Chapman & Hall CRC The R Series),R,0,https://images.gr-assets.com/books/1367545443s/157993.jpg,
+132,Garrett Grolemund,Hands-On Programming with R,R,8,https://images.gr-assets.com/books/1400930557s/7445.jpg,
+131,Hadley Wickham,R Packages,R,0,https://images.gr-assets.com/books/1403173986s/1845.jpg,
+130,Richard Cotton,Learning R,R,0,https://images.gr-assets.com/books/1344922523s/1953.jpg,
+129,Julia Silge,Text Mining with R: A Tidy Approach,R,8,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+128,Joseph Adler,R in a Nutshell,R,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,
+127,John Chambers,Software for Data Analysis: Programming with R,R,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+126,Nina Zumel,Practical Data Science with R,R,0,https://images.gr-assets.com/books/1473495285s/1617.jpg,
+125,Jon Duckett,HTML and CSS: Design and Build Websites,HTML,7,https://images.gr-assets.com/books/1349013610s/6442769.jpg,
+124,Elisabeth Robson & Eric Freeman,Head First HTML and CSS,HTML,0,https://images.gr-assets.com/books/1327903636s/21787.jpg,
+123,Markus Zusak, A Smarter Way to Learn HTML & CSS: Learn it faster,HTML,5,https://images.gr-assets.com/books/1442129426s/231804.jpg,
+122,Young Rewired State,"Get Coding: Learn HTML, CSS & JavaScript",HTML,0,https://images.gr-assets.com/books/1375596592s/6186357.jpg,
+121,Jennifer Robins, Learning Web Design,HTML,0,https://images.gr-assets.com/books/1327909092s/1202.jpg,
+120,Julie C. Meloni and Jennifer Kyrin," HTML, CSS, and JavaScript All in One",HTML,0,https://images.gr-assets.com/books/1327873635s/2998.jpg,
+119,Elizabeth Castro and Bruce Hyslop, HTML and CSS: Visual QuickStart Guide,HTML,10,https://images.gr-assets.com/books/1327881361s/320.jpg,
+118,David Durocher, HTML and CSS QuickStart Guide,HTML,0,https://images.gr-assets.com/books/1424596966s/5297.jpg,
+117,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,https://images.gr-assets.com/books/1336418837s/13536860.jpg,
+116,Eric A. Meyer, CSS Pocket Reference,HTML,0,https://images.gr-assets.com/books/1387151694s/17245.jpg,
+115,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://images.gr-assets.com/books/1351778881s/5060378.jpg,
+114,Mark J. Price,C# 8 and NET Core 3,C,10,https://images.gr-assets.com/books/1358266080s/11857408.jpg,
+113,LCF Publishing,C#: Learn C# in One Day and Learn It Well,C,10,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,
+112,Andrew Stellman,Head First C#,C,10,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,
+111,Jospeh Albahari ,C# 8.0 Pocket Reference,C,0,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,
+110,Anne & Murach Joel Boehm,Murach C# 2015,C,0,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,
+109,Jon Skeet,C# in Depth,C,7,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,
+108,R B Whitaker,The C# Players Guide,C,9,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,
+107,Harrison Ferrone ,Learning C# by Developing Games with Unity 2019,C,0,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,
+106,Andrew Troelsen,Pro C# 7: With NET and NET Core,C,7,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,
+105,Robert Martin ,"Agile Principles, Patterns, and Practices in C#",C,0,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,
+104,John Sharp ,Microsoft Visual C# Step by Step,C,7,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,
+103,Joseph Albahar,C# 7 in a Nutshell: The Definitive Reference,C,0,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,
+102,Stephen Cleary,Concurrency in C# Cookbook,C,7,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,
+101,Bill Wagner,Effective C# (Covers C# 6.0),C,0,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",
+100,Ben Forta," SQL in 10 Minutes, Sams Teach Yourself",SQL,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",
+99,Sylvia Moestl Vasilik,SQL Practice Problems,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",
+98,Anthony Molinaro,SQL Cookbook ,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",
+97,John Viescas,SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",
+96,Alan Beaulieu, Learning SQL: Master SQL Fundamentals,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",
+95,James Groff,SQL: The Complete Reference,SQL,0,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,
+94,Steven Feuerstein,Oracle PL/SQL Programming 6e,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",
+93,Jonathan Gennick,SQL Pocket Guide: A Guide to SQL Usage,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",
+92,John Viescas,Effective SQL: 61 Specific Ways to Write Better SQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",
+91,Bill Karwin,SQL Antipatterns: Avoiding the Pitfalls of Database Programming,SQL,7,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,
+90,Allen G. Taylor,SQL For Dummies (For Dummies (Computer/Tech)),SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",
+89,Chris Fehily, SQL Database Programming,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",
+88,Baron Schwartz,High-Performance MySQL,SQL,0,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,
+87,Stephane Faroult, The Art of SQL,SQL,0,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,
+86,Michael Crichton,MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",
+85,Ganofins,MySQL for Beginners,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",
+84,John Grisham,Learn SQL With MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",
+83,"Elie Wiesel, Marion Wiesel",The Definitive Guide to MySQL 5,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",
+82,John Green,MySQL MADE EASY,SQL,9,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",
+81,William Goldman,High-Performance MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",
+80,S.E. Hinton,MySQL,SQL,4,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",
+79,James Dashner,The Database Application Book,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",
+78,"Steven D. Levitt, Stephen J. Dubner",Learning MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",
+77,Frances Hodgson Burnett,MySQL Admin Cookbook LITE,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",
+76,"Luc Perkins, Eric Redmond, Jim Wilson",Seven Databases in Seven Weeks,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",
+75,"Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",MongoDB: The Definitive Guide,SQL,9,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",
+74,Steven Feuerstein,Oracle PLSQL Programming,SQL,8,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",
+73,"Dan McCreary, Ann Kelly",Making Sense of NoSQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",
+72,Lynn Beighley,Head First SQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",
+71,Michael J Hernandez,Database Design for Mere Mortals,Database,0,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",
+70,Rod Stephens,Beginning Database Design Solutions,Database,0,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",
+69,Herbert Schildt,Java: A Beginners Guide,Java,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,
+68,Barry A. Burd,Java for Dummies ,Java,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,
+67,Joshua Bloch, Effective Java ,Java,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,
+66,Eric Freeman,Java Head First Design Patterns ,Java,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,
+65,Craig Walls and Ryan Breidenbach,Java Spring in Action ,Java,0,https://images.gr-assets.com/books/1361039440s/49041.jpg,
+64,Robert C. Martin,Java Clean Code ,Java,0,https://images.gr-assets.com/books/1168052448s/30119.jpg,
+63,Lasse Koskela,Test Driven TDD and Acceptance TDD for Java Developers ,Java,0,https://images.gr-assets.com/books/1432730315s/256683.jpg,
+62, Alex Garcia and Viktor Farcic,Test-Driven Java Development,Java,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,
+61, Bruce Eckel,Thinking in Java ,Java,0,https://images.gr-assets.com/books/1366212852s/113436.jpg,
+60,"Cay S. Horstmann and Gary Cornell
+",Core Java,Java,0,https://images.gr-assets.com/books/1327656754s/11.jpg,
+59,"Herbert Schildt
+",Java: The Complete Reference,Java,0,https://images.gr-assets.com/books/1487389574s/5129.jpg,
+58,Kyle Simpson, You Dont Know JS,Java,0,https://images.gr-assets.com/books/1361039438s/1162543.jpg,
+57,David Herman,Effective JavaScript,Java,0,https://images.gr-assets.com/books/1473454532s/37435.jpg,
+56,Marijn Haverbeke,Eloquent JavaScript,Java,0,https://images.gr-assets.com/books/1405973850s/2956.jpg,
+55,Mark Myers, A Smarter Way to Learn JavaScript,Java,0,https://images.gr-assets.com/books/1439632243s/24178.jpg,
+54,Douglas Crockford, JavaScript: The Good Parts,Java,0,https://images.gr-assets.com/books/1479863624s/1618.jpg,
+53,David Flanagan, JavaScript: The Definitive Guide,Java,0,https://images.gr-assets.com/books/1490903702s/22557272.jpg,
+52,Jon Duckett,JavaScript and jQuery: Interactive Front-End Web Development,Java,0,https://images.gr-assets.com/books/1451271747s/119322.jpg,
+51,"Douglas Crockford
+",JavaScript: The Good Parts,Java,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+50,Marijn Haverbeke,Eloquent JavaScript,Java,0,https://images.gr-assets.com/books/1369504683s/10917.jpg,
+49,Book by Bear Bibeault,Secrets of the JavaScript Ninja,Java,8,https://images.gr-assets.com/books/1440319389s/4981.jpg,
+48,Reginald Braithwaite,JavaScript Allong A strong cup of function,Java,0,https://images.gr-assets.com/books/1328025229s/18405.jpg,
+47,by Elizabeth Robson ,Head First HTML and CSS,HTML,0,https://images.gr-assets.com/books/1345958969s/128029.jpg,
+46,David DuRocher,HTML and CSS Quickstart Guide,HTML,0,https://images.gr-assets.com/books/1167352178s/22628.jpg,
+45,Young Rewired State,"Learn HTML, CSS & JavaScript",HTML,0,https://images.gr-assets.com/books/1325667729s/11735983.jpg,
+44,Jennifer Robbins,Learning Web Design,HTML,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,
+43,Jon Duckett, HTML and CSS Design and Build Websites,HTML,8,https://images.gr-assets.com/books/1381512375s/18490.jpg,
+42,Meloni and Kyrins ,"HTML, CSS, and JavaScript All in One",HTML,0,https://images.gr-assets.com/books/1353277730s/11588.jpg,
+41,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,
+40,DT Editorial Services,HTML 5 Black Book ,HTML,9,https://images.gr-assets.com/books/1394798630s/99561.jpg,
+39,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://images.gr-assets.com/books/1292060045s/227443.jpg,
+38,Eric A,CSS Pocket Reference,HTML,0,https://images.gr-assets.com/books/1397245675s/14935.jpg,
+37,Jennifer Kyrnin ,"HTML, CSS, and JavaScript All in One: Cover",HTML,0,https://images.gr-assets.com/books/1327781893s/38709.jpg,
+36, Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+35,Keith Grant,CSS in Depth,HTML,0,https://images.gr-assets.com/books/1390173285s/1381.jpg,
+34,"Greg Sidelnikov
+",CSS Visual Dictionary,HTML,0,https://images.gr-assets.com/books/1367545443s/157993.jpg,
+33,Peter Gasston,The Book of CSS3: A Developers Guide to t,HTML,0,https://images.gr-assets.com/books/1400930557s/7445.jpg,
+32,Bruce Hyslop ,HTML and CSS: Visual Quickstart Guide,HTML,9,https://images.gr-assets.com/books/1403173986s/1845.jpg,
+31,Courage Kamusoko,Optical and SAR Remote Sensing of Urban Areas,Image processing,9,https://images.gr-assets.com/books/1344922523s/1953.jpg,
+30,Viral Thakar,Deep Learning with Python and OpenCV,Python,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+29,Andreas Maier,Medical Imaging Systems,Image processing,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,
+28,Ayman El-Baz,Neurological Disorders and Imaging Physics,Image processing,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+27,Arshad Iqbal,Digital Image Processing MCQs,Image processing,0,https://images.gr-assets.com/books/1473495285s/1617.jpg,
+26,John Jensen,Introductory Digital Image Processing,Image processing,5,https://images.gr-assets.com/books/1349013610s/6442769.jpg,
+25,Saiful-Islam Saif,"Aerial Photography, Photogeology, GIS, And Image Processing",Image processing,0,https://images.gr-assets.com/books/1327903636s/21787.jpg,
+24,Robert Gendler,"Lessons from the Masters
+Current Concepts in Astronomical Image Processing",Image processing,8,https://images.gr-assets.com/books/1442129426s/231804.jpg,
+23,Cleve B. Moler,Numerical Computing with MATLAB,Image processing,0,https://images.gr-assets.com/books/1375596592s/6186357.jpg,
+22,Robert Laganire,OpenCV 2 Computer Vision Application Programming Cookbook,Image processing,8,https://images.gr-assets.com/books/1327909092s/1202.jpg,
+21,Reinhard Klette,Handbook of Image Processing Operators,Image processing,0,https://images.gr-assets.com/books/1327873635s/2998.jpg,
+20,Ying Bai,"SQL Server Database Programming with Java
+Concepts, Designs and Implementations",SQL,0,https://images.gr-assets.com/books/1327881361s/320.jpg,
+19,Christian Nagel,Professional Chash and NET,C net,0,https://images.gr-assets.com/books/1424596966s/5297.jpg,
+18,Sufyan bin Uzayr,"Optimizing Visual Studio Code for Python Development
+Developing More Efficient and Effective Programs in Python",Python,0,https://images.gr-assets.com/books/1336418837s/13536860.jpg,
+17,April Speight,Visual Studio Code for Python Programmers,Python,0,https://images.gr-assets.com/books/1387151694s/17245.jpg,
+16,Alessandro Del Sole,Visual Studio Code Distilled,C,0,https://images.gr-assets.com/books/1351778881s/5060378.jpg,
+15,Alvin Ashcraft,Learn WinUI 3,C,0,https://images.gr-assets.com/books/1358266080s/11857408.jpg,
+14,Andrew Stellman,Head First C#,C,0,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,
+13,Muzec Adem,How to Write Better C# Code,C,0,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,
+12,Engr. Michael David,NET Programming for Beginners,C,0,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,
+11,Mark J. Price,C# 9 and NET 5  Modern Cross-Platform Development,C,0,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,
+10,Robin Nixon,"Learning PHP, MySQL & JavaScript",SQL,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,
+9,Lynn Beighley,Headfirst PHP & MySQL,SQL,0,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,
+8,Alan Forbes,The Joy of PHP,SQL,6,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,
+7,Larry Ullman,PHP for the Web: Visual QuickStart Guide,SQL,0,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,
+6,Luke Welling, PHP and MySQL Web Development,SQL,0,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,
+5,shubham tiwari,MySQL,SQL,0,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,
+4,Ullman,PHP and MySQL for Dynamic Web Sites,SQL,3,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,
+3,Josh Lockhart,Modern PHP: New Features and Good Practices,SQL,9,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,
+2,Stevenholz,PHP The Complete Reference,SQL,9,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",
+1,Mike Murach,Ullman PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",
+170,Mike Murach,Murachs PHP and MySQL (Murach: Training & Reference),SQL,6,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",
+168,Eric Matthes,Python Crash Course,Python,10,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",
+167,Paul Barry,Head-First Python 2nd edition,Python,0,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",
+166,Al Sweigart,Invent Your Own Computer Games with Python,Python,6,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",
+165,Allen B. Downey,Think Python: How to Think Like a Computer Scientist,Python,10,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,
+164,"Anthony Scopatz, Kathryn D. Huff",Effective Computation in Physics,Python,0,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",
+163,Zed A. Shaw,Learn Python 3 the Hard Way,Python,0,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",
+162,Jason R. Briggs,Python for Kids,Python,0,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",
+161,Bryson Payne,Teach Your Kids to Code,Python,0,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,
+160,Dan Bader,Python Tricks,Python,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",
+159,Luciano Ramalho,Fluent Python,Python,0,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",
+158,Brett Slatkin,Effective Python,Python,0,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,
+157,David Beazley & Brian K. Jones,Python Cookbook,Python,0,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,
+156,Stanley Lippman,C++ Primer 5th Edition,C++,7,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",
+155,Kyle Loudon,C++ Pocket Reference 1st Edition,C++,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",
+154,Siddhartha Rao," C++ in One Hour a Day, Sams Teach Yourself 8th Edition",C++,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",
+153,Jeffrey M. Cogswell,C++ All-in-One For Dummies 3rd Edition,C++,0,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",
+152,Herbert Schildt ,C++: The Complete Reference Fourth Edition,C++,10,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",
+151,Tony Gaddis ,Starting Out with C++ from Control Structures to Objects plus,C++,0,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",
+150,Stroustrup Bjarne,A Tour of C++ (C++ In-Depth Series) 1st Edition,C++,0,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",
+149,Scott Meyers,Effective Modern C++,C++,6,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",
+148,Nicolai Josuttis,"C++ Standard Library, The: A Tutorial And Reference 2Nd Edition",C++,0,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",
+147,Mike Hendrickson,Accelerated C++: Practical Programming by Example 1st Edition,C++,7,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",
+146,Scott Meyers,More Effective C++,C++,0,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",
+145,Robert Lafore,Object-Oriented Programming In C++ 4th Edition,C++,0,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",
+144,D. S. Malik,C++ Programming: From Problem Analysis to Program Design 3rd Edition,C++,0,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",
+143,Nathan Clark ,C++: A Detailed Approach to Practical Coding,C++,7,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",
+142,Jacek Galowicz ,C++17 STL Cookbook,C++,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",
+141,Hadley Wickham,"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",R,6,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",
+140,Tilman M. Davies,The Book of R: A First Course in Programming and Statistics,R,0,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",
+139,Andrie de Vries,R For Dummies,R,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,
+138,Andy Field,Discovering Statistics Using R,R,5,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,
+137,Norman Matloff,The Art of R Programming: A Tour of Statistical Software Design,R,10,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,
+136,Jared P. Lander, R for Everyone: Advanced Analytics and Graphics,R,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,
+135,Brett Lantz,"Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",R,0,https://images.gr-assets.com/books/1361039440s/49041.jpg,
+134,Jd Long,"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics",R,8,https://images.gr-assets.com/books/1168052448s/30119.jpg,
+133,Dr. Rob Kabacoff,R in Action: Data Analysis and Graphics with R,R,0,https://images.gr-assets.com/books/1432730315s/256683.jpg,
+132,Hadley Wickham,Advanced R (Chapman & Hall CRC The R Series),R,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,
+131,Garrett Grolemund,Hands-On Programming with R,R,8,https://images.gr-assets.com/books/1366212852s/113436.jpg,
+130,Hadley Wickham,R Packages,R,0,https://images.gr-assets.com/books/1327656754s/11.jpg,
+129,Richard Cotton,Learning R,R,0,https://images.gr-assets.com/books/1487389574s/5129.jpg,
+128,Julia Silge,Text Mining with R: A Tidy Approach,R,8,https://images.gr-assets.com/books/1361039438s/1162543.jpg,
+127,Joseph Adler,R in a Nutshell,R,0,https://images.gr-assets.com/books/1473454532s/37435.jpg,
+126,John Chambers,Software for Data Analysis: Programming with R,R,0,https://images.gr-assets.com/books/1405973850s/2956.jpg,
+125,Nina Zumel,Practical Data Science with R,R,0,https://images.gr-assets.com/books/1439632243s/24178.jpg,
+124,Jon Duckett,HTML and CSS: Design and Build Websites,HTML,7,https://images.gr-assets.com/books/1479863624s/1618.jpg,
+123,Elisabeth Robson & Eric Freeman,Head First HTML and CSS,HTML,0,https://images.gr-assets.com/books/1490903702s/22557272.jpg,
+122,Markus Zusak, A Smarter Way to Learn HTML & CSS: Learn it faster,HTML,5,https://images.gr-assets.com/books/1451271747s/119322.jpg,
+121,Young Rewired State,"Get Coding: Learn HTML, CSS & JavaScript",HTML,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+120,Jennifer Robins, Learning Web Design,HTML,0,https://images.gr-assets.com/books/1369504683s/10917.jpg,
+119,Julie C. Meloni and Jennifer Kyrin," HTML, CSS, and JavaScript All in One",HTML,0,https://images.gr-assets.com/books/1440319389s/4981.jpg,
+118,Elizabeth Castro and Bruce Hyslop, HTML and CSS: Visual QuickStart Guide,HTML,10,https://images.gr-assets.com/books/1328025229s/18405.jpg,
+117,David Durocher, HTML and CSS QuickStart Guide,HTML,0,https://images.gr-assets.com/books/1345958969s/128029.jpg,
+116,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,https://images.gr-assets.com/books/1167352178s/22628.jpg,
+115,Eric A. Meyer, CSS Pocket Reference,HTML,0,https://images.gr-assets.com/books/1325667729s/11735983.jpg,
+114,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,
+113,Mark J. Price,C# 8 and NET Core 3,C,0,https://images.gr-assets.com/books/1381512375s/18490.jpg,
+112,LCF Publishing,C#: Learn C# in One Day and Learn It Well,C,0,https://images.gr-assets.com/books/1353277730s/11588.jpg,
+111,Andrew Stellman,Head First C#,C,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,
+110,Jospeh Albahari ,C# 8.0 Pocket Reference,C,0,https://images.gr-assets.com/books/1394798630s/99561.jpg,
+109,Anne & Murach Joel Boehm,Murach C# 2015,C,0,https://images.gr-assets.com/books/1292060045s/227443.jpg,
+108,Jon Skeet,C# in Depth,C,7,https://images.gr-assets.com/books/1397245675s/14935.jpg,
+107,R B Whitaker,The C# Players Guide,C,9,https://images.gr-assets.com/books/1327781893s/38709.jpg,
+106,Harrison Ferrone ,Learning C# by Developing Games with Unity 2019,C,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+105,Andrew Troelsen,Pro C# 7: With NET and NET Core,C,7,https://images.gr-assets.com/books/1390173285s/1381.jpg,
+104,Robert Martin ,"Agile Principles, Patterns, and Practices in C#",C,0,https://images.gr-assets.com/books/1367545443s/157993.jpg,
+103,John Sharp ,Microsoft Visual C# Step by Step,C,7,https://images.gr-assets.com/books/1400930557s/7445.jpg,
+102,Joseph Albahar,C# 7 in a Nutshell: The Definitive Reference,C,0,https://images.gr-assets.com/books/1403173986s/1845.jpg,
+101,Stephen Cleary,Concurrency in C# Cookbook,C,7,https://images.gr-assets.com/books/1344922523s/1953.jpg,
+100,Bill Wagner,Effective C# (Covers C# 6.0),C,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+99,Ben Forta," SQL in 10 Minutes, Sams Teach Yourself",SQL,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,
+98,Sylvia Moestl Vasilik,SQL Practice Problems,SQL,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+97,Anthony Molinaro,SQL Cookbook ,SQL,0,https://images.gr-assets.com/books/1473495285s/1617.jpg,
+96,John Viescas,SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL,SQL,0,https://images.gr-assets.com/books/1349013610s/6442769.jpg,
+95,Alan Beaulieu, Learning SQL: Master SQL Fundamentals,SQL,0,https://images.gr-assets.com/books/1327903636s/21787.jpg,
+94,James Groff,SQL: The Complete Reference,SQL,0,https://images.gr-assets.com/books/1442129426s/231804.jpg,
+93,Steven Feuerstein,Oracle PL/SQL Programming 6e,SQL,0,https://images.gr-assets.com/books/1375596592s/6186357.jpg,
+92,Jonathan Gennick,SQL Pocket Guide: A Guide to SQL Usage,SQL,0,https://images.gr-assets.com/books/1327909092s/1202.jpg,
+91,John Viescas,Effective SQL: 61 Specific Ways to Write Better SQL,SQL,0,https://images.gr-assets.com/books/1327873635s/2998.jpg,
+90,Bill Karwin,SQL Antipatterns: Avoiding the Pitfalls of Database Programming,SQL,7,https://images.gr-assets.com/books/1327881361s/320.jpg,
+89,Allen G. Taylor,SQL For Dummies (For Dummies (Computer/Tech)),SQL,0,https://images.gr-assets.com/books/1424596966s/5297.jpg,
+88,Chris Fehily, SQL Database Programming,SQL,0,https://images.gr-assets.com/books/1336418837s/13536860.jpg,
+87,Baron Schwartz,High-Performance MySQL,SQL,0,https://images.gr-assets.com/books/1387151694s/17245.jpg,
+86,Stephane Faroult, The Art of SQL,SQL,0,https://images.gr-assets.com/books/1351778881s/5060378.jpg,
+85,Michael Crichton,MySQL,SQL,0,https://images.gr-assets.com/books/1358266080s/11857408.jpg,
+84,Ganofins,MySQL for Beginners,SQL,0,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,
+83,John Grisham,Learn SQL With MySQL,SQL,0,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,
+82,"Elie Wiesel, Marion Wiesel",The Definitive Guide to MySQL 5,SQL,0,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,
+81,John Green,MySQL MADE EASY,SQL,9,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,
+80,William Goldman,High-Performance MySQL,SQL,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,
+79,S.E. Hinton,MySQL,SQL,4,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,
+78,James Dashner,The Database Application Book,SQL,0,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,
+77,"Steven D. Levitt, Stephen J. Dubner",Learning MySQL,SQL,0,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,
+76,Frances Hodgson Burnett,MySQL Admin Cookbook LITE,SQL,0,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,
+75,"Luc Perkins, Eric Redmond, Jim Wilson",Seven Databases in Seven Weeks,SQL,0,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,
+74,"Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",MongoDB: The Definitive Guide,SQL,9,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,
+73,Steven Feuerstein,Oracle PLSQL Programming,SQL,8,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,
+72,"Dan McCreary, Ann Kelly",Making Sense of NoSQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",
+71,Lynn Beighley,Head First SQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",
+70,Michael J Hernandez,Database Design for Mere Mortals,Database,0,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",
+69,Rod Stephens,Beginning Database Design Solutions,Database,0,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",
+68,Herbert Schildt,Java: A Beginners Guide,Java,0,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",
+67,Barry A. Burd,Java for Dummies ,Java,0,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",
+66,Joshua Bloch, Effective Java ,Java,0,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,
+65,Eric Freeman,Java Head First Design Patterns ,Java,0,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",
+64,Craig Walls and Ryan Breidenbach,Java Spring in Action ,Java,0,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",
+63,Robert C. Martin,Java Clean Code ,Java,0,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",
+62,Lasse Koskela,Test Driven TDD and Acceptance TDD for Java Developers ,Java,0,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,
+61, Alex Garcia and Viktor Farcic,Test-Driven Java Development,Java,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",
+60, Bruce Eckel,Thinking in Java ,Java,0,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",
+59,"Cay S. Horstmann and Gary Cornell
+",Core Java,Java,0,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,
+58,"Herbert Schildt
+",Java: The Complete Reference,Java,0,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,
+57,Kyle Simpson, You Dont Know JS,Java,0,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",
+56,David Herman,Effective JavaScript,Java,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",
+55,Marijn Haverbeke,Eloquent JavaScript,Java,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",
+54,Mark Myers, A Smarter Way to Learn JavaScript,Java,0,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",
+53,Douglas Crockford, JavaScript: The Good Parts,Java,0,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",
+52,David Flanagan, JavaScript: The Definitive Guide,Java,0,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",
+51,Jon Duckett,JavaScript and jQuery: Interactive Front-End Web Development,Java,0,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",
+50,"Douglas Crockford
+",JavaScript: The Good Parts,Java,0,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",
+49,Marijn Haverbeke,Eloquent JavaScript,Java,0,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",
+48,Book by Bear Bibeault,Secrets of the JavaScript Ninja,Java,8,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",
+47,Reginald Braithwaite,JavaScript Allong A strong cup of function,Java,0,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",
+46,by Elizabeth Robson ,Head First HTML and CSS,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",
+45,David DuRocher,HTML and CSS Quickstart Guide,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",
+44,Young Rewired State,"Learn HTML, CSS & JavaScript",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",
+43,Jennifer Robbins,Learning Web Design,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",
+42,Jon Duckett, HTML and CSS Design and Build Websites,HTML,8,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",
+41,Meloni and Kyrins ,"HTML, CSS, and JavaScript All in One",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",
+40,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,
+39,DT Editorial Services,HTML 5 Black Book ,HTML,9,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,
+38,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,
+37,Eric A,CSS Pocket Reference,HTML,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,
+36,Jennifer Kyrnin ,"HTML, CSS, and JavaScript All in One: Cover",HTML,0,https://images.gr-assets.com/books/1361039440s/49041.jpg,
+35, Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://images.gr-assets.com/books/1168052448s/30119.jpg,
+34,Keith Grant,CSS in Depth,HTML,0,https://images.gr-assets.com/books/1432730315s/256683.jpg,
+33,"Greg Sidelnikov
+",CSS Visual Dictionary,HTML,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,
+32,Peter Gasston,The Book of CSS3: A Developers Guide to t,HTML,0,https://images.gr-assets.com/books/1366212852s/113436.jpg,
+31,Bruce Hyslop ,HTML and CSS: Visual Quickstart Guide,HTML,9,https://images.gr-assets.com/books/1327656754s/11.jpg,
+30,Courage Kamusoko,Optical and SAR Remote Sensing of Urban Areas,Image processing,9,https://images.gr-assets.com/books/1487389574s/5129.jpg,
+29,Viral Thakar,Deep Learning with Python and OpenCV,Python,0,https://images.gr-assets.com/books/1361039438s/1162543.jpg,
+28,Andreas Maier,Medical Imaging Systems,Image processing,0,https://images.gr-assets.com/books/1473454532s/37435.jpg,
+27,Ayman El-Baz,Neurological Disorders and Imaging Physics,Image processing,0,https://images.gr-assets.com/books/1405973850s/2956.jpg,
+26,Arshad Iqbal,Digital Image Processing MCQs,Image processing,0,https://images.gr-assets.com/books/1439632243s/24178.jpg,
+25,John Jensen,Introductory Digital Image Processing,Image processing,9,https://images.gr-assets.com/books/1479863624s/1618.jpg,
+24,Saiful-Islam Saif,"Aerial Photography, Photogeology, GIS, And Image Processing",Image processing,0,https://images.gr-assets.com/books/1490903702s/22557272.jpg,
+23,Robert Gendler,"Lessons from the Masters
+Current Concepts in Astronomical Image Processing",Image processing,8,https://images.gr-assets.com/books/1451271747s/119322.jpg,
+22,Cleve B. Moler,Numerical Computing with MATLAB,Image processing,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+21,Robert Laganire,OpenCV 2 Computer Vision Application Programming Cookbook,Image processing,8,https://images.gr-assets.com/books/1369504683s/10917.jpg,
+20,Reinhard Klette,Handbook of Image Processing Operators,Image processing,0,https://images.gr-assets.com/books/1440319389s/4981.jpg,
+19,Ying Bai,"SQL Server Database Programming with Java
+Concepts, Designs and Implementations",SQL,0,https://images.gr-assets.com/books/1328025229s/18405.jpg,
+18,Christian Nagel,Professional Chash and NET,C net,0,https://images.gr-assets.com/books/1345958969s/128029.jpg,
+17,Sufyan bin Uzayr,"Optimizing Visual Studio Code for Python Development
+Developing More Efficient and Effective Programs in Python",Python,0,https://images.gr-assets.com/books/1167352178s/22628.jpg,
+16,April Speight,Visual Studio Code for Python Programmers,Python,0,https://images.gr-assets.com/books/1325667729s/11735983.jpg,
+15,Alessandro Del Sole,Visual Studio Code Distilled,C,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,
+14,Alvin Ashcraft,Learn WinUI 3,C,0,https://images.gr-assets.com/books/1381512375s/18490.jpg,
+13,Andrew Stellman,Head First C#,C,0,https://images.gr-assets.com/books/1353277730s/11588.jpg,
+12,Muzec Adem,How to Write Better C# Code,C,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,
+11,Engr. Michael David,NET Programming for Beginners,C,0,https://images.gr-assets.com/books/1394798630s/99561.jpg,
+10,Mark J. Price,C# 9 and NET 5  Modern Cross-Platform Development,C,0,https://images.gr-assets.com/books/1292060045s/227443.jpg,
+9,Robin Nixon,"Learning PHP, MySQL & JavaScript",SQL,0,https://images.gr-assets.com/books/1397245675s/14935.jpg,
+8,Lynn Beighley,Headfirst PHP & MySQL,SQL,0,https://images.gr-assets.com/books/1327781893s/38709.jpg,
+7,Alan Forbes,The Joy of PHP,SQL,6,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+6,Larry Ullman,PHP for the Web: Visual QuickStart Guide,SQL,0,https://images.gr-assets.com/books/1390173285s/1381.jpg,
+5,Luke Welling, PHP and MySQL Web Development,SQL,0,https://images.gr-assets.com/books/1367545443s/157993.jpg,
+4,shubham tiwari,MySQL,SQL,0,https://images.gr-assets.com/books/1400930557s/7445.jpg,
+3,Ullman,PHP and MySQL for Dynamic Web Sites,SQL,3,https://images.gr-assets.com/books/1403173986s/1845.jpg,
+2,Josh Lockhart,Modern PHP: New Features and Good Practices,SQL,9,https://images.gr-assets.com/books/1344922523s/1953.jpg,
+1,Stevenholz,PHP The Complete Reference,SQL,9,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+170,Mike Murach,Ullman PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide,SQL,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,
+169,Mike Murach,Murachs PHP and MySQL (Murach: Training & Reference),SQL,6,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+167,Eric Matthes,Python Crash Course,Python,10,https://images.gr-assets.com/books/1473495285s/1617.jpg,
+166,Paul Barry,Head-First Python 2nd edition,Python,0,https://images.gr-assets.com/books/1349013610s/6442769.jpg,
+165,Al Sweigart,Invent Your Own Computer Games with Python,Python,6,https://images.gr-assets.com/books/1327903636s/21787.jpg,
+164,Allen B. Downey,Think Python: How to Think Like a Computer Scientist,Python,10,https://images.gr-assets.com/books/1442129426s/231804.jpg,
+163,"Anthony Scopatz, Kathryn D. Huff",Effective Computation in Physics,Python,0,https://images.gr-assets.com/books/1375596592s/6186357.jpg,
+162,Zed A. Shaw,Learn Python 3 the Hard Way,Python,0,https://images.gr-assets.com/books/1327909092s/1202.jpg,
+161,Jason R. Briggs,Python for Kids,Python,0,https://images.gr-assets.com/books/1327873635s/2998.jpg,
+160,Bryson Payne,Teach Your Kids to Code,Python,0,https://images.gr-assets.com/books/1327881361s/320.jpg,
+159,Dan Bader,Python Tricks,Python,0,https://images.gr-assets.com/books/1424596966s/5297.jpg,
+158,Luciano Ramalho,Fluent Python,Python,0,https://images.gr-assets.com/books/1336418837s/13536860.jpg,
+157,Brett Slatkin,Effective Python,Python,0,https://images.gr-assets.com/books/1387151694s/17245.jpg,
+156,David Beazley & Brian K. Jones,Python Cookbook,Python,0,https://images.gr-assets.com/books/1351778881s/5060378.jpg,
+155,Stanley Lippman,C++ Primer 5th Edition,C++,7,https://images.gr-assets.com/books/1358266080s/11857408.jpg,
+154,Kyle Loudon,C++ Pocket Reference 1st Edition,C++,0,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,
+153,Siddhartha Rao," C++ in One Hour a Day, Sams Teach Yourself 8th Edition",C++,0,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,
+152,Jeffrey M. Cogswell,C++ All-in-One For Dummies 3rd Edition,C++,0,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,
+151,Herbert Schildt ,C++: The Complete Reference Fourth Edition,C++,10,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,
+150,Tony Gaddis ,Starting Out with C++ from Control Structures to Objects plus,C++,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,
+149,Stroustrup Bjarne,A Tour of C++ (C++ In-Depth Series) 1st Edition,C++,0,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,
+148,Scott Meyers,Effective Modern C++,C++,6,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,
+147,Nicolai Josuttis,"C++ Standard Library, The: A Tutorial And Reference 2Nd Edition",C++,0,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,
+146,Mike Hendrickson,Accelerated C++: Practical Programming by Example 1st Edition,C++,7,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,
+145,Scott Meyers,More Effective C++,C++,0,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,
+144,Robert Lafore,Object-Oriented Programming In C++ 4th Edition,C++,0,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,
+143,D. S. Malik,C++ Programming: From Problem Analysis to Program Design 3rd Edition,C++,0,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,
+142,Nathan Clark ,C++: A Detailed Approach to Practical Coding,C++,7,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",
+141,Jacek Galowicz ,C++17 STL Cookbook,C++,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",
+140,Hadley Wickham,"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",R,6,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",
+139,Tilman M. Davies,The Book of R: A First Course in Programming and Statistics,R,0,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",
+138,Andrie de Vries,R For Dummies,R,0,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",
+137,Andy Field,Discovering Statistics Using R,R,10,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",
+136,Norman Matloff,The Art of R Programming: A Tour of Statistical Software Design,R,0,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,
+135,Jared P. Lander, R for Everyone: Advanced Analytics and Graphics,R,0,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",
+134,Brett Lantz,"Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",R,0,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",
+133,Jd Long,"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics",R,8,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",
+132,Dr. Rob Kabacoff,R in Action: Data Analysis and Graphics with R,R,0,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,
+131,Hadley Wickham,Advanced R (Chapman & Hall CRC The R Series),R,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",
+130,Garrett Grolemund,Hands-On Programming with R,R,8,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",
+129,Hadley Wickham,R Packages,R,0,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,
+128,Richard Cotton,Learning R,R,0,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,
+127,Julia Silge,Text Mining with R: A Tidy Approach,R,8,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",
+126,Joseph Adler,R in a Nutshell,R,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",
+125,John Chambers,Software for Data Analysis: Programming with R,R,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",
+124,Nina Zumel,Practical Data Science with R,R,0,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",
+123,Jon Duckett,HTML and CSS: Design and Build Websites,HTML,7,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",
+122,Elisabeth Robson & Eric Freeman,Head First HTML and CSS,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",
+121,Markus Zusak, A Smarter Way to Learn HTML & CSS: Learn it faster,HTML,5,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",
+120,Young Rewired State,"Get Coding: Learn HTML, CSS & JavaScript",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",
+119,Jennifer Robins, Learning Web Design,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",
+118,Julie C. Meloni and Jennifer Kyrin," HTML, CSS, and JavaScript All in One",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",
+117,Elizabeth Castro and Bruce Hyslop, HTML and CSS: Visual QuickStart Guide,HTML,10,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",
+116,David Durocher, HTML and CSS QuickStart Guide,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",
+115,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",
+114,Eric A. Meyer, CSS Pocket Reference,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",
+113,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",
+112,Mark J. Price,C# 8 and NET Core 3,C,0,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",
+111,LCF Publishing,C#: Learn C# in One Day and Learn It Well,C,0,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",
+110,Andrew Stellman,Head First C#,C,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,
+109,Jospeh Albahari ,C# 8.0 Pocket Reference,C,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,
+108,Anne & Murach Joel Boehm,Murach C# 2015,C,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,
+107,Jon Skeet,C# in Depth,C,7,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,
+106,R B Whitaker,The C# Players Guide,C,9,https://images.gr-assets.com/books/1361039440s/49041.jpg,
+105,Harrison Ferrone ,Learning C# by Developing Games with Unity 2019,C,0,https://images.gr-assets.com/books/1168052448s/30119.jpg,
+104,Andrew Troelsen,Pro C# 7: With NET and NET Core,C,9,https://images.gr-assets.com/books/1432730315s/256683.jpg,
+103,Robert Martin ,"Agile Principles, Patterns, and Practices in C#",C,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,
+102,John Sharp ,Microsoft Visual C# Step by Step,C,7,https://images.gr-assets.com/books/1366212852s/113436.jpg,
+101,Joseph Albahar,C# 7 in a Nutshell: The Definitive Reference,C,0,https://images.gr-assets.com/books/1327656754s/11.jpg,
+100,Stephen Cleary,Concurrency in C# Cookbook,C,7,https://images.gr-assets.com/books/1487389574s/5129.jpg,
+99,Bill Wagner,Effective C# (Covers C# 6.0),C,0,https://images.gr-assets.com/books/1361039438s/1162543.jpg,
+98,Ben Forta," SQL in 10 Minutes, Sams Teach Yourself",SQL,0,https://images.gr-assets.com/books/1473454532s/37435.jpg,
+97,Sylvia Moestl Vasilik,SQL Practice Problems,SQL,0,https://images.gr-assets.com/books/1405973850s/2956.jpg,
+96,Anthony Molinaro,SQL Cookbook ,SQL,0,https://images.gr-assets.com/books/1439632243s/24178.jpg,
+95,John Viescas,SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL,SQL,0,https://images.gr-assets.com/books/1479863624s/1618.jpg,
+94,Alan Beaulieu, Learning SQL: Master SQL Fundamentals,SQL,0,https://images.gr-assets.com/books/1490903702s/22557272.jpg,
+93,James Groff,SQL: The Complete Reference,SQL,0,https://images.gr-assets.com/books/1451271747s/119322.jpg,
+92,Steven Feuerstein,Oracle PL/SQL Programming 6e,SQL,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+91,Jonathan Gennick,SQL Pocket Guide: A Guide to SQL Usage,SQL,0,https://images.gr-assets.com/books/1369504683s/10917.jpg,
+90,John Viescas,Effective SQL: 61 Specific Ways to Write Better SQL,SQL,0,https://images.gr-assets.com/books/1440319389s/4981.jpg,
+89,Bill Karwin,SQL Antipatterns: Avoiding the Pitfalls of Database Programming,SQL,7,https://images.gr-assets.com/books/1328025229s/18405.jpg,
+88,Allen G. Taylor,SQL For Dummies (For Dummies (Computer/Tech)),SQL,0,https://images.gr-assets.com/books/1345958969s/128029.jpg,
+87,Chris Fehily, SQL Database Programming,SQL,0,https://images.gr-assets.com/books/1167352178s/22628.jpg,
+86,Baron Schwartz,High-Performance MySQL,SQL,0,https://images.gr-assets.com/books/1325667729s/11735983.jpg,
+85,Stephane Faroult, The Art of SQL,SQL,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,
+84,Michael Crichton,MySQL,SQL,0,https://images.gr-assets.com/books/1381512375s/18490.jpg,
+83,Ganofins,MySQL for Beginners,SQL,0,https://images.gr-assets.com/books/1353277730s/11588.jpg,
+82,John Grisham,Learn SQL With MySQL,SQL,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,
+81,"Elie Wiesel, Marion Wiesel",The Definitive Guide to MySQL 5,SQL,0,https://images.gr-assets.com/books/1394798630s/99561.jpg,
+80,John Green,MySQL MADE EASY,SQL,9,https://images.gr-assets.com/books/1292060045s/227443.jpg,
+79,William Goldman,High-Performance MySQL,SQL,0,https://images.gr-assets.com/books/1397245675s/14935.jpg,
+78,S.E. Hinton,MySQL,SQL,4,https://images.gr-assets.com/books/1327781893s/38709.jpg,
+77,James Dashner,The Database Application Book,SQL,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+76,"Steven D. Levitt, Stephen J. Dubner",Learning MySQL,SQL,0,https://images.gr-assets.com/books/1390173285s/1381.jpg,
+75,Frances Hodgson Burnett,MySQL Admin Cookbook LITE,SQL,0,https://images.gr-assets.com/books/1367545443s/157993.jpg,
+74,"Luc Perkins, Eric Redmond, Jim Wilson",Seven Databases in Seven Weeks,SQL,0,https://images.gr-assets.com/books/1400930557s/7445.jpg,
+73,"Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",MongoDB: The Definitive Guide,SQL,9,https://images.gr-assets.com/books/1403173986s/1845.jpg,
+72,Steven Feuerstein,Oracle PLSQL Programming,SQL,8,https://images.gr-assets.com/books/1344922523s/1953.jpg,
+71,"Dan McCreary, Ann Kelly",Making Sense of NoSQL,SQL,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+70,Lynn Beighley,Head First SQL,SQL,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,
+69,Michael J Hernandez,Database Design for Mere Mortals,Database,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+68,Rod Stephens,Beginning Database Design Solutions,Database,0,https://images.gr-assets.com/books/1473495285s/1617.jpg,
+67,Herbert Schildt,Java: A Beginners Guide,Java,0,https://images.gr-assets.com/books/1349013610s/6442769.jpg,
+66,Barry A. Burd,Java for Dummies ,Java,0,https://images.gr-assets.com/books/1327903636s/21787.jpg,
+65,Joshua Bloch, Effective Java ,Java,0,https://images.gr-assets.com/books/1442129426s/231804.jpg,
+64,Eric Freeman,Java Head First Design Patterns ,Java,0,https://images.gr-assets.com/books/1375596592s/6186357.jpg,
+63,Craig Walls and Ryan Breidenbach,Java Spring in Action ,Java,0,https://images.gr-assets.com/books/1327909092s/1202.jpg,
+62,Robert C. Martin,Java Clean Code ,Java,0,https://images.gr-assets.com/books/1327873635s/2998.jpg,
+61,Lasse Koskela,Test Driven TDD and Acceptance TDD for Java Developers ,Java,0,https://images.gr-assets.com/books/1327881361s/320.jpg,
+60, Alex Garcia and Viktor Farcic,Test-Driven Java Development,Java,0,https://images.gr-assets.com/books/1424596966s/5297.jpg,
+59, Bruce Eckel,Thinking in Java ,Java,0,https://images.gr-assets.com/books/1336418837s/13536860.jpg,
+58,"Cay S. Horstmann and Gary Cornell
+",Core Java,Java,0,https://images.gr-assets.com/books/1387151694s/17245.jpg,
+57,"Herbert Schildt
+",Java: The Complete Reference,Java,0,https://images.gr-assets.com/books/1351778881s/5060378.jpg,
+56,Kyle Simpson, You Dont Know JS,Java,0,https://images.gr-assets.com/books/1358266080s/11857408.jpg,
+55,David Herman,Effective JavaScript,Java,0,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,
+54,Marijn Haverbeke,Eloquent JavaScript,Java,0,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,
+53,Mark Myers, A Smarter Way to Learn JavaScript,Java,0,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,
+52,Douglas Crockford, JavaScript: The Good Parts,Java,0,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,
+51,David Flanagan, JavaScript: The Definitive Guide,Java,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,
+50,Jon Duckett,JavaScript and jQuery: Interactive Front-End Web Development,Java,0,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,
+49,"Douglas Crockford
+",JavaScript: The Good Parts,Java,0,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,
+48,Marijn Haverbeke,Eloquent JavaScript,Java,0,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,
+47,Book by Bear Bibeault,Secrets of the JavaScript Ninja,Java,8,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,
+46,Reginald Braithwaite,JavaScript Allong A strong cup of function,Java,0,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,
+45,by Elizabeth Robson ,Head First HTML and CSS,HTML,0,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,
+44,David DuRocher,HTML and CSS Quickstart Guide,HTML,0,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,
+43,Young Rewired State,"Learn HTML, CSS & JavaScript",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",
+42,Jennifer Robbins,Learning Web Design,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",
+41,Jon Duckett, HTML and CSS Design and Build Websites,HTML,8,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",
+40,Meloni and Kyrins ,"HTML, CSS, and JavaScript All in One",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",
+39,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",
+38,DT Editorial Services,HTML 5 Black Book ,HTML,9,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",
+37,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,
+36,Eric A,CSS Pocket Reference,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",
+35,Jennifer Kyrnin ,"HTML, CSS, and JavaScript All in One: Cover",HTML,0,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",
+34, Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",
+33,Keith Grant,CSS in Depth,HTML,0,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,
+32,"Greg Sidelnikov
+",CSS Visual Dictionary,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",
+31,Peter Gasston,The Book of CSS3: A Developers Guide to t,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",
+30,Bruce Hyslop ,HTML and CSS: Visual Quickstart Guide,HTML,9,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,
+29,Courage Kamusoko,Optical and SAR Remote Sensing of Urban Areas,Image processing,9,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,
+28,Viral Thakar,Deep Learning with Python and OpenCV,Python,0,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",
+27,Andreas Maier,Medical Imaging Systems,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",
+26,Ayman El-Baz,Neurological Disorders and Imaging Physics,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",
+25,Arshad Iqbal,Digital Image Processing MCQs,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",
+24,John Jensen,Introductory Digital Image Processing,Image processing,8,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",
+23,Saiful-Islam Saif,"Aerial Photography, Photogeology, GIS, And Image Processing",Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",
+22,Robert Gendler,"Lessons from the Masters
+Current Concepts in Astronomical Image Processing",Image processing,8,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",
+21,Cleve B. Moler,Numerical Computing with MATLAB,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",
+20,Robert Laganire,OpenCV 2 Computer Vision Application Programming Cookbook,Image processing,8,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",
+19,Reinhard Klette,Handbook of Image Processing Operators,Image processing,0,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",
+18,Ying Bai,"SQL Server Database Programming with Java
+Concepts, Designs and Implementations",SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",
+17,Christian Nagel,Professional Chash and NET,C net,0,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",
+16,Sufyan bin Uzayr,"Optimizing Visual Studio Code for Python Development
+Developing More Efficient and Effective Programs in Python",Python,0,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",
+15,April Speight,Visual Studio Code for Python Programmers,Python,0,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",
+14,Alessandro Del Sole,Visual Studio Code Distilled,C,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",
+13,Alvin Ashcraft,Learn WinUI 3,C,0,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",
+12,Andrew Stellman,Head First C#,C,0,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",
+11,Muzec Adem,How to Write Better C# Code,C,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,
+10,Engr. Michael David,NET Programming for Beginners,C,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,
+9,Mark J. Price,C# 9 and NET 5  Modern Cross-Platform Development,C,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,
+8,Robin Nixon,"Learning PHP, MySQL & JavaScript",SQL,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,
+7,Lynn Beighley,Headfirst PHP & MySQL,SQL,0,https://images.gr-assets.com/books/1361039440s/49041.jpg,
+6,Alan Forbes,The Joy of PHP,SQL,6,https://images.gr-assets.com/books/1168052448s/30119.jpg,
+5,Larry Ullman,PHP for the Web: Visual QuickStart Guide,SQL,0,https://images.gr-assets.com/books/1432730315s/256683.jpg,
+4,Luke Welling, PHP and MySQL Web Development,SQL,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,
+3,shubham tiwari,MySQL,SQL,0,https://images.gr-assets.com/books/1366212852s/113436.jpg,
+2,Ullman,PHP and MySQL for Dynamic Web Sites,SQL,3,https://images.gr-assets.com/books/1327656754s/11.jpg,
+1,Josh Lockhart,Modern PHP: New Features and Good Practices,SQL,9,https://images.gr-assets.com/books/1487389574s/5129.jpg,
+170,Stevenholz,PHP The Complete Reference,SQL,9,https://images.gr-assets.com/books/1361039438s/1162543.jpg,
+169,Mike Murach,Ullman PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide,SQL,0,https://images.gr-assets.com/books/1473454532s/37435.jpg,
+168,Mike Murach,Murachs PHP and MySQL (Murach: Training & Reference),SQL,6,https://images.gr-assets.com/books/1405973850s/2956.jpg,
+166,Eric Matthes,Python Crash Course,Python,10,https://images.gr-assets.com/books/1439632243s/24178.jpg,
+165,Paul Barry,Head-First Python 2nd edition,Python,0,https://images.gr-assets.com/books/1479863624s/1618.jpg,
+164,Al Sweigart,Invent Your Own Computer Games with Python,Python,6,https://images.gr-assets.com/books/1490903702s/22557272.jpg,
+163,Allen B. Downey,Think Python: How to Think Like a Computer Scientist,Python,10,https://images.gr-assets.com/books/1451271747s/119322.jpg,
+162,"Anthony Scopatz, Kathryn D. Huff",Effective Computation in Physics,Python,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+161,Zed A. Shaw,Learn Python 3 the Hard Way,Python,0,https://images.gr-assets.com/books/1369504683s/10917.jpg,
+160,Jason R. Briggs,Python for Kids,Python,0,https://images.gr-assets.com/books/1440319389s/4981.jpg,
+159,Bryson Payne,Teach Your Kids to Code,Python,0,https://images.gr-assets.com/books/1328025229s/18405.jpg,
+158,Dan Bader,Python Tricks,Python,0,https://images.gr-assets.com/books/1345958969s/128029.jpg,
+157,Luciano Ramalho,Fluent Python,Python,0,https://images.gr-assets.com/books/1167352178s/22628.jpg,
+156,Brett Slatkin,Effective Python,Python,0,https://images.gr-assets.com/books/1325667729s/11735983.jpg,
+155,David Beazley & Brian K. Jones,Python Cookbook,Python,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,
+154,Stanley Lippman,C++ Primer 5th Edition,C++,7,https://images.gr-assets.com/books/1381512375s/18490.jpg,
+153,Kyle Loudon,C++ Pocket Reference 1st Edition,C++,0,https://images.gr-assets.com/books/1353277730s/11588.jpg,
+152,Siddhartha Rao," C++ in One Hour a Day, Sams Teach Yourself 8th Edition",C++,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,
+151,Jeffrey M. Cogswell,C++ All-in-One For Dummies 3rd Edition,C++,0,https://images.gr-assets.com/books/1394798630s/99561.jpg,
+150,Herbert Schildt ,C++: The Complete Reference Fourth Edition,C++,10,https://images.gr-assets.com/books/1292060045s/227443.jpg,
+149,Tony Gaddis ,Starting Out with C++ from Control Structures to Objects plus,C++,0,https://images.gr-assets.com/books/1397245675s/14935.jpg,
+148,Stroustrup Bjarne,A Tour of C++ (C++ In-Depth Series) 1st Edition,C++,0,https://images.gr-assets.com/books/1327781893s/38709.jpg,
+147,Scott Meyers,Effective Modern C++,C++,6,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+146,Nicolai Josuttis,"C++ Standard Library, The: A Tutorial And Reference 2Nd Edition",C++,0,https://images.gr-assets.com/books/1390173285s/1381.jpg,
+145,Mike Hendrickson,Accelerated C++: Practical Programming by Example 1st Edition,C++,7,https://images.gr-assets.com/books/1367545443s/157993.jpg,
+144,Scott Meyers,More Effective C++,C++,0,https://images.gr-assets.com/books/1400930557s/7445.jpg,
+143,Robert Lafore,Object-Oriented Programming In C++ 4th Edition,C++,0,https://images.gr-assets.com/books/1403173986s/1845.jpg,
+142,D. S. Malik,C++ Programming: From Problem Analysis to Program Design 3rd Edition,C++,0,https://images.gr-assets.com/books/1344922523s/1953.jpg,
+141,Nathan Clark ,C++: A Detailed Approach to Practical Coding,C++,7,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+140,Jacek Galowicz ,C++17 STL Cookbook,C++,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,
+139,Hadley Wickham,"R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",R,6,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+138,Tilman M. Davies,The Book of R: A First Course in Programming and Statistics,R,0,https://images.gr-assets.com/books/1473495285s/1617.jpg,
+137,Andrie de Vries,R For Dummies,R,0,https://images.gr-assets.com/books/1349013610s/6442769.jpg,
+136,Andy Field,Discovering Statistics Using R,R,5,https://images.gr-assets.com/books/1327903636s/21787.jpg,
+135,Norman Matloff,The Art of R Programming: A Tour of Statistical Software Design,R,0,https://images.gr-assets.com/books/1442129426s/231804.jpg,
+134,Jared P. Lander, R for Everyone: Advanced Analytics and Graphics,R,0,https://images.gr-assets.com/books/1375596592s/6186357.jpg,
+133,Brett Lantz,"Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",R,0,https://images.gr-assets.com/books/1327909092s/1202.jpg,
+132,Jd Long,"R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics",R,8,https://images.gr-assets.com/books/1327873635s/2998.jpg,
+131,Dr. Rob Kabacoff,R in Action: Data Analysis and Graphics with R,R,0,https://images.gr-assets.com/books/1327881361s/320.jpg,
+130,Hadley Wickham,Advanced R (Chapman & Hall CRC The R Series),R,0,https://images.gr-assets.com/books/1424596966s/5297.jpg,
+129,Garrett Grolemund,Hands-On Programming with R,R,8,https://images.gr-assets.com/books/1336418837s/13536860.jpg,
+128,Hadley Wickham,R Packages,R,0,https://images.gr-assets.com/books/1387151694s/17245.jpg,
+127,Richard Cotton,Learning R,R,0,https://images.gr-assets.com/books/1351778881s/5060378.jpg,
+126,Julia Silge,Text Mining with R: A Tidy Approach,R,8,https://images.gr-assets.com/books/1358266080s/11857408.jpg,
+125,Joseph Adler,R in a Nutshell,R,0,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,
+124,John Chambers,Software for Data Analysis: Programming with R,R,0,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,
+123,Nina Zumel,Practical Data Science with R,R,0,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,
+122,Jon Duckett,HTML and CSS: Design and Build Websites,HTML,7,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,
+121,Elisabeth Robson & Eric Freeman,Head First HTML and CSS,HTML,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,
+120,Markus Zusak, A Smarter Way to Learn HTML & CSS: Learn it faster,HTML,5,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,
+119,Young Rewired State,"Get Coding: Learn HTML, CSS & JavaScript",HTML,0,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,
+118,Jennifer Robins, Learning Web Design,HTML,0,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,
+117,Julie C. Meloni and Jennifer Kyrin," HTML, CSS, and JavaScript All in One",HTML,0,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,
+116,Elizabeth Castro and Bruce Hyslop, HTML and CSS: Visual QuickStart Guide,HTML,10,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,
+115,David Durocher, HTML and CSS QuickStart Guide,HTML,0,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,
+114,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,
+113,Eric A. Meyer, CSS Pocket Reference,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",
+112,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",
+111,Mark J. Price,C# 8 and NET Core 3,C,0,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",
+110,LCF Publishing,C#: Learn C# in One Day and Learn It Well,C,0,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",
+109,Andrew Stellman,Head First C#,C,0,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",
+108,Jospeh Albahari ,C# 8.0 Pocket Reference,C,0,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",
+107,Anne & Murach Joel Boehm,Murach C# 2015,C,0,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,
+106,Jon Skeet,C# in Depth,C,7,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",
+105,R B Whitaker,The C# Players Guide,C,9,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",
+104,Harrison Ferrone ,Learning C# by Developing Games with Unity 2019,C,0,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",
+103,Andrew Troelsen,Pro C# 7: With NET and NET Core,C,7,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,
+102,Robert Martin ,"Agile Principles, Patterns, and Practices in C#",C,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",
+101,John Sharp ,Microsoft Visual C# Step by Step,C,7,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",
+100,Joseph Albahar,C# 7 in a Nutshell: The Definitive Reference,C,0,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,
+99,Stephen Cleary,Concurrency in C# Cookbook,C,7,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,
+98,Bill Wagner,Effective C# (Covers C# 6.0),C,0,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",
+97,Ben Forta," SQL in 10 Minutes, Sams Teach Yourself",SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",
+96,Sylvia Moestl Vasilik,SQL Practice Problems,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",
+95,Anthony Molinaro,SQL Cookbook ,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/31GY6WuNwvL._SX365_BO1,204,203,200_.jpg",
+94,John Viescas,SQL Queries for Mere Mortals: A Hands-On Guide to Data Manipulation in SQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51MDIFRdpNL._SX258_BO1,204,203,200_.jpg",
+93,Alan Beaulieu, Learning SQL: Master SQL Fundamentals,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41NxNchrvBL._SX258_BO1,204,203,200_.jpg",
+92,James Groff,SQL: The Complete Reference,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51f4sFFMx3L._SX404_BO1,204,203,200_.jpg",
+91,Steven Feuerstein,Oracle PL/SQL Programming 6e,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51YLVsva7BL._SX379_BO1,204,203,200_.jpg",
+90,Jonathan Gennick,SQL Pocket Guide: A Guide to SQL Usage,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41y+Txk3IsL._SX258_BO1,204,203,200_.jpg",
+89,John Viescas,Effective SQL: 61 Specific Ways to Write Better SQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41VCc-xmm2L._SY344_BO1,204,203,200_.jpg",
+88,Bill Karwin,SQL Antipatterns: Avoiding the Pitfalls of Database Programming,SQL,7,"https://images-na.ssl-images-amazon.com/images/I/51SZMR4JKML._SX258_BO1,204,203,200_.jpg",
+87,Allen G. Taylor,SQL For Dummies (For Dummies (Computer/Tech)),SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41UGBBqFUZL._SX258_BO1,204,203,200_.jpg",
+86,Chris Fehily, SQL Database Programming,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51WR9JB71iL._SX258_BO1,204,203,200_.jpg",
+85,Baron Schwartz,High-Performance MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51qE8dW8ZkL._SX379_BO1,204,203,200_.jpg",
+84,Stephane Faroult, The Art of SQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41oWgCGmgCL._SY344_BO1,204,203,200_.jpg",
+83,Michael Crichton,MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/31ogAjT9rkL._SX313_BO1,204,203,200_.jpg",
+82,Ganofins,MySQL for Beginners,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41edNnUkpUL._SX258_BO1,204,203,200_.jpg",
+81,John Grisham,Learn SQL With MySQL,SQL,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/HTML-and-CSS-Duckett-cover.jpg,
+80,"Elie Wiesel, Marion Wiesel",The Definitive Guide to MySQL 5,SQL,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Head-first-HTML-and-CSS.jpg,
+79,John Green,MySQL MADE EASY,SQL,9,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/a-smarter-way-to-learn-HTML-and-CSS-1.jpg,
+78,William Goldman,High-Performance MySQL,SQL,0,https://iotvnaw69daj.i.optimole.com/cb:n2y9~6666f/w:710/h:1063/q:mauto/dpr:1.3/f:avif/https://www.codeinwp.com/wp-content/uploads/2021/04/Get-coding.jpg,
+77,S.E. Hinton,MySQL,SQL,4,https://images.gr-assets.com/books/1361039440s/49041.jpg,
+76,James Dashner,The Database Application Book,SQL,0,https://images.gr-assets.com/books/1168052448s/30119.jpg,
+75,"Steven D. Levitt, Stephen J. Dubner",Learning MySQL,SQL,0,https://images.gr-assets.com/books/1432730315s/256683.jpg,
+74,Frances Hodgson Burnett,MySQL Admin Cookbook LITE,SQL,0,https://images.gr-assets.com/books/1361038355s/428263.jpg,
+73,"Luc Perkins, Eric Redmond, Jim Wilson",Seven Databases in Seven Weeks,SQL,0,https://images.gr-assets.com/books/1366212852s/113436.jpg,
+72,"Shannon Bradshaw, Eoin Brazil, Kristina Chodorow",MongoDB: The Definitive Guide,SQL,9,https://images.gr-assets.com/books/1327656754s/11.jpg,
+71,Steven Feuerstein,Oracle PLSQL Programming,SQL,8,https://images.gr-assets.com/books/1487389574s/5129.jpg,
+70,"Dan McCreary, Ann Kelly",Making Sense of NoSQL,SQL,0,https://images.gr-assets.com/books/1361039438s/1162543.jpg,
+69,Lynn Beighley,Head First SQL,SQL,0,https://images.gr-assets.com/books/1473454532s/37435.jpg,
+68,Michael J Hernandez,Database Design for Mere Mortals,Database,0,https://images.gr-assets.com/books/1405973850s/2956.jpg,
+67,Rod Stephens,Beginning Database Design Solutions,Database,0,https://images.gr-assets.com/books/1439632243s/24178.jpg,
+66,Herbert Schildt,Java: A Beginners Guide,Java,0,https://images.gr-assets.com/books/1479863624s/1618.jpg,
+65,Barry A. Burd,Java for Dummies ,Java,0,https://images.gr-assets.com/books/1490903702s/22557272.jpg,
+64,Joshua Bloch, Effective Java ,Java,0,https://images.gr-assets.com/books/1451271747s/119322.jpg,
+63,Eric Freeman,Java Head First Design Patterns ,Java,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+62,Craig Walls and Ryan Breidenbach,Java Spring in Action ,Java,0,https://images.gr-assets.com/books/1369504683s/10917.jpg,
+61,Robert C. Martin,Java Clean Code ,Java,0,https://images.gr-assets.com/books/1440319389s/4981.jpg,
+60,Lasse Koskela,Test Driven TDD and Acceptance TDD for Java Developers ,Java,0,https://images.gr-assets.com/books/1328025229s/18405.jpg,
+59, Alex Garcia and Viktor Farcic,Test-Driven Java Development,Java,0,https://images.gr-assets.com/books/1345958969s/128029.jpg,
+58, Bruce Eckel,Thinking in Java ,Java,0,https://images.gr-assets.com/books/1167352178s/22628.jpg,
+57,"Cay S. Horstmann and Gary Cornell
+",Core Java,Java,0,https://images.gr-assets.com/books/1325667729s/11735983.jpg,
+56,"Herbert Schildt
+",Java: The Complete Reference,Java,0,https://images.gr-assets.com/books/1408303130s/375802.jpg,
+55,Kyle Simpson, You Dont Know JS,Java,0,https://images.gr-assets.com/books/1381512375s/18490.jpg,
+54,David Herman,Effective JavaScript,Java,0,https://images.gr-assets.com/books/1353277730s/11588.jpg,
+53,Marijn Haverbeke,Eloquent JavaScript,Java,0,https://images.gr-assets.com/books/1318009171s/1656001.jpg,
+52,Mark Myers, A Smarter Way to Learn JavaScript,Java,0,https://images.gr-assets.com/books/1394798630s/99561.jpg,
+51,Douglas Crockford, JavaScript: The Good Parts,Java,0,https://images.gr-assets.com/books/1292060045s/227443.jpg,
+50,David Flanagan, JavaScript: The Definitive Guide,Java,0,https://images.gr-assets.com/books/1397245675s/14935.jpg,
+49,Jon Duckett,JavaScript and jQuery: Interactive Front-End Web Development,Java,0,https://images.gr-assets.com/books/1327781893s/38709.jpg,
+48,"Douglas Crockford
+",JavaScript: The Good Parts,Java,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+47,Marijn Haverbeke,Eloquent JavaScript,Java,0,https://images.gr-assets.com/books/1390173285s/1381.jpg,
+46,Book by Bear Bibeault,Secrets of the JavaScript Ninja,Java,8,https://images.gr-assets.com/books/1367545443s/157993.jpg,
+45,Reginald Braithwaite,JavaScript Allong A strong cup of function,Java,0,https://images.gr-assets.com/books/1400930557s/7445.jpg,
+44,by Elizabeth Robson ,Head First HTML and CSS,HTML,0,https://images.gr-assets.com/books/1403173986s/1845.jpg,
+43,David DuRocher,HTML and CSS Quickstart Guide,HTML,0,https://images.gr-assets.com/books/1344922523s/1953.jpg,
+42,Young Rewired State,"Learn HTML, CSS & JavaScript",HTML,0,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+41,Jennifer Robbins,Learning Web Design,HTML,0,https://images.gr-assets.com/books/1174210942s/370493.jpg,
+40,Jon Duckett, HTML and CSS Design and Build Websites,HTML,8,https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png,
+39,Meloni and Kyrins ,"HTML, CSS, and JavaScript All in One",HTML,0,https://images.gr-assets.com/books/1473495285s/1617.jpg,
+38,Ben Frain,Responsive Web Design with HTML5 and CSS,HTML,0,https://images.gr-assets.com/books/1349013610s/6442769.jpg,
+37,DT Editorial Services,HTML 5 Black Book ,HTML,9,https://images.gr-assets.com/books/1327903636s/21787.jpg,
+36,Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://images.gr-assets.com/books/1442129426s/231804.jpg,
+35,Eric A,CSS Pocket Reference,HTML,0,https://images.gr-assets.com/books/1375596592s/6186357.jpg,
+34,Jennifer Kyrnin ,"HTML, CSS, and JavaScript All in One: Cover",HTML,0,https://images.gr-assets.com/books/1327909092s/1202.jpg,
+33, Andy Harris,HTML5 and CSS3 All-in-One For Dummies,HTML,0,https://images.gr-assets.com/books/1327873635s/2998.jpg,
+32,Keith Grant,CSS in Depth,HTML,0,https://images.gr-assets.com/books/1327881361s/320.jpg,
+31,"Greg Sidelnikov
+",CSS Visual Dictionary,HTML,0,https://images.gr-assets.com/books/1424596966s/5297.jpg,
+30,Peter Gasston,The Book of CSS3: A Developers Guide to t,HTML,0,https://images.gr-assets.com/books/1336418837s/13536860.jpg,
+29,Bruce Hyslop ,HTML and CSS: Visual Quickstart Guide,HTML,9,https://images.gr-assets.com/books/1387151694s/17245.jpg,
+28,Courage Kamusoko,Optical and SAR Remote Sensing of Urban Areas,Image processing,9,https://images.gr-assets.com/books/1351778881s/5060378.jpg,
+27,Viral Thakar,Deep Learning with Python and OpenCV,Python,0,https://images.gr-assets.com/books/1358266080s/11857408.jpg,
+26,Andreas Maier,Medical Imaging Systems,Image processing,0,https://files.realpython.com/media/python-crash-course-cover.56540af24538.jpg,
+25,Ayman El-Baz,Neurological Disorders and Imaging Physics,Image processing,0,https://files.realpython.com/media/head-first-python-cover.3869ed7d3547.jpg,
+24,Arshad Iqbal,Digital Image Processing MCQs,Image processing,0,https://files.realpython.com/media/iyocgwp-cover.4d43d42500a2.jpg,
+23,John Jensen,Introductory Digital Image Processing,Image processing,9,https://files.realpython.com/media/think-python-cover.a6cbd57dbde7.jpg,
+22,Saiful-Islam Saif,"Aerial Photography, Photogeology, GIS, And Image Processing",Image processing,0,https://files.realpython.com/media/ecip-book-cover.7ce8078aba69.jpg,
+21,Robert Gendler,"Lessons from the Masters
+Current Concepts in Astronomical Image Processing",Image processing,8,https://files.realpython.com/media/lp3thw-cover.12d9c32dede7.jpg,
+20,Cleve B. Moler,Numerical Computing with MATLAB,Image processing,0,https://files.realpython.com/media/python-for-kids-cover.6e5bae2b7709.jpg,
+19,Robert Laganire,OpenCV 2 Computer Vision Application Programming Cookbook,Image processing,8,https://files.realpython.com/media/tyctc-cover.4c9e18e01fb0.jpg,
+18,Reinhard Klette,Handbook of Image Processing Operators,Image processing,0,https://files.realpython.com/media/python-tricks-book-cover.5b0f5df06d94.jpg,
+17,Ying Bai,"SQL Server Database Programming with Java
+Concepts, Designs and Implementations",SQL,0,https://files.realpython.com/media/fluent-python-cover.f504156334d8.jpg,
+16,Christian Nagel,Professional Chash and NET,C net,0,https://files.realpython.com/media/effective-python-cover.6e060fbfa272.jpg,
+15,Sufyan bin Uzayr,"Optimizing Visual Studio Code for Python Development
+Developing More Efficient and Effective Programs in Python",Python,0,https://files.realpython.com/media/python-cookbook-cover.449eb0e173ad.jpg,
+14,April Speight,Visual Studio Code for Python Programmers,Python,0,"https://images-na.ssl-images-amazon.com/images/I/41Gd9xIXrUL._SX381_BO1,204,203,200_.jpg",
+13,Alessandro Del Sole,Visual Studio Code Distilled,C,0,"https://images-na.ssl-images-amazon.com/images/I/4153+jtQOTL._SY344_BO1,204,203,200_.jpg",
+12,Alvin Ashcraft,Learn WinUI 3,C,0,"https://images-na.ssl-images-amazon.com/images/I/41okhLUZZOL._SX258_BO1,204,203,200_.jpg",
+11,Andrew Stellman,Head First C#,C,0,"https://images-na.ssl-images-amazon.com/images/I/51XuWxG6hDL._SX397_BO1,204,203,200_.jpg",
+10,Muzec Adem,How to Write Better C# Code,C,0,"https://images-na.ssl-images-amazon.com/images/I/51Uqe5PHbML._SX258_BO1,204,203,200_.jpg",
+9,Engr. Michael David,NET Programming for Beginners,C,0,"https://images-na.ssl-images-amazon.com/images/I/4156KxJLccL._SX405_BO1,204,203,200_.jpg",
+8,Mark J. Price,C# 9 and NET 5  Modern Cross-Platform Development,C,0,https://m.media-amazon.com/images/I/51gvHuJ8W0L._SX260_.jpg,
+7,Robin Nixon,"Learning PHP, MySQL & JavaScript",SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51qUGMia07L._SX379_BO1,204,203,200_.jpg",
+6,Lynn Beighley,Headfirst PHP & MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/5108SrrM+qL._SX406_BO1,204,203,200_.jpg",
+5,Alan Forbes,The Joy of PHP,SQL,6,"https://images-na.ssl-images-amazon.com/images/I/519suIPxd5L._SX258_BO1,204,203,200_.jpg",
+4,Larry Ullman,PHP for the Web: Visual QuickStart Guide,SQL,0,https://m.media-amazon.com/images/I/51-oc3ApHxL._SY346_.jpg,
+3,Luke Welling, PHP and MySQL Web Development,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/41lUVTg+ChL._SX357_BO1,204,203,200_.jpg",
+2,shubham tiwari,MySQL,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/213EJ-USRIL._BO1,204,203,200_.jpg",
+1,Ullman,PHP and MySQL for Dynamic Web Sites,SQL,3,https://m.media-amazon.com/images/I/41sz2q4VlKL._SY346_.jpg,
+170,Josh Lockhart,Modern PHP: New Features and Good Practices,SQL,9,https://m.media-amazon.com/images/I/51HGIc-EJqL._SX260_.jpg,
+169,Stevenholz,PHP The Complete Reference,SQL,8,"https://images-na.ssl-images-amazon.com/images/I/512BRANyRxS._SX331_BO1,204,203,200_.jpg",
+168,Mike Murach,Ullman PHP Advanced and Object-Oriented Programming: Visual QuickPro Guide,SQL,0,"https://images-na.ssl-images-amazon.com/images/I/51XOP1zda3L._SX376_BO1,204,203,200_.jpg",
+167,Mike Murach,Murachs PHP and MySQL (Murach: Training & Reference),SQL,6,"https://images-na.ssl-images-amazon.com/images/I/51ERP9jmjJL._SX258_BO1,204,203,200_.jpg",
